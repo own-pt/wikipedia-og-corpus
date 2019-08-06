@@ -1,0 +1,22 @@
+Source rock
+
+In petroleum geology, source rock refers to rocks from which hydrocarbons have been generated or are capable of being generated. They form one of the necessary elements of a working petroleum system. They are organic-rich sediments that may have been deposited in a variety of environments including deep water marine, lacustrine and deltaic. Oil shale can be regarded as an organic-rich but immature source rock from which little or no oil has been generated and expelled. Subsurface source rock mapping methodologies make it possible to identify likely zones of petroleum occurrence in sedimentary basins as well as shale gas plays.
+
+Section::::Types of source rocks.
+Source rocks are classified from the types of kerogen that they contain, which in turn governs the type of hydrocarbons that will be generated.
+
+Section::::Maturation and expulsion.
+With increasing burial by later sediments and increase in temperature, the kerogen within the rock begins to break down. This thermal degradation or cracking releases shorter chain hydrocarbons from the original large and complex molecules occurring in the kerogen.
+
+The hydrocarbons generated from thermally mature source rock are first expelled, along with other pore fluids, due to the effects of internal source rock over-pressuring caused by hydrocarbon generation as well as by compaction. Once released into porous and permeable carrier beds or into faults planes, oil and gas then move upwards towards the surface in an overall buoyancy-driven process known as "secondary migration".
+
+Section::::Mapping source rocks in sedimentary basins.
+Areas underlain by thermally mature generative source rocks in a sedimentary basin are called "generative basins or depressions" or else "hydrocarbon kitchens". Mapping those regional oil and gas generative "hydrocarbon kitchens" is feasible by integrating the existing source rock data into seismic depth maps that structurally follow the source horizon(s). It has been statistically observed at a world scale that zones of high success ratios in finding oil and gas generally correlate in most basin types (such as intracratonic or rift basins) with the mapped "generative depressions". Cases of long distance oil migration into shallow traps away from the "generative depressions" are usually found in foreland basins.
+
+Besides pointing to zones of high petroleum potential within a sedimentary basin, subsurface mapping of a source rock's degree of thermal maturity is also the basic tool to identify and broadly delineate shale gas plays.
+
+Section::::World class source rocks.
+Certain source rocks are referred to as "world class", meaning that they are not only of very high quality but are also thick and of wide geographical distribution. Examples include:
+
+
+

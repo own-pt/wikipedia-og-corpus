@@ -1,0 +1,8 @@
+Log ASCII Standard
+
+Log ASCII Standard (LAS) is a standard file-format common in the oil-and-gas and water well industries to store well log information. Well logging is used to investigate and characterize the subsurface stratigraphy in a well.
+
+A single LAS file can only contain data for one well, but it can contain any number datasets (called "curves") from that well. Common curves found in a LAS file may include natural gamma, travel time, or resistivity logs.
+
+
+

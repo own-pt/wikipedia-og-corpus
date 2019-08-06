@@ -1,0 +1,15 @@
+Nuclear magnetic resonance logging
+
+Nuclear magnetic resonance (NMR) logging is a type of well logging that uses the NMR response of a formation to directly determine its porosity and permeability, providing a continuous record along the length of the borehole.
+Section::::Background.
+NMR logging exploits the large magnetic moment of hydrogen, which is abundant in rocks in the form of water.
+The NMR signal amplitude is proportional to the quantity of hydrogen nuclei present in a formation and can be calibrated to give a value for porosity that is free from lithology effects.
+Uniquely, a petrophysicist can also analyse the rate of decay of the NMR signal amplitude to obtain information on the permeability of the formation - a crucial quantity in hydrocarbon exploration.
+
+Section::::Relationship of NMR signal to pore size.
+The most important mechanism affecting NMR relaxation is grain-surface relaxation.
+Molecules in fluids are in constant Brownian motion, diffusing about the pore space and bouncing off the grain surfaces.
+Upon interaction with the grain surface, hydrogen protons can transfer some nuclear spin energy to the grain (contributing to T1 relaxation) or irreversibley dephase (contributing to T2 relaxation).
+Therefore the speed of relaxation most significantly depends on how often the hydrogen nuclei collide with the grain surface and this is controlled by the surface-to-volume ratio of the pore in which the nuclei are located.
+Collisions are less frequent in larger pores, resulting in a slower decay of the NMR signal amplitude and allowing a petrophysicist to understand the distribution of pore sizes.
+

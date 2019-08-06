@@ -1,0 +1,32 @@
+Mud logging
+
+Mud logging is the creation of a detailed record (well log) of a borehole by examining the cuttings of rock brought to the surface by the circulating drilling medium (most commonly drilling mud). Mud logging is usually performed by a third-party mud logging company. This provides well owners and producers with information about the lithology and fluid content of the borehole while drilling. Historically it is the earliest type of well log. Under some circumstances compressed air is employed as a circulating fluid, rather than mud. Although most commonly used in petroleum exploration, mud logging is also sometimes used when drilling water wells and in other mineral exploration, where drilling fluid is the circulating medium used to lift cuttings out of the hole. In hydrocarbon exploration, hydrocarbon surface gas detectors record the level of natural gas brought up in the mud. A mobile laboratory is situated by the mud logging company near the drilling rig or on deck of an offshore drilling rig, or on a drill ship.
+
+Section::::The service provided.
+Mud logging technicians in an oil field drilling operation determine positions of hydrocarbons with respect to depth, identify downhole lithology, monitor natural gas entering the drilling mud stream, and draw well logs for use by oil company geologist. Rock cuttings circulated to the surface in drilling mud are sampled and discussed.
+
+The mud logging company is normally contracted by the oil company (or operator). They then organize this information in the form of a graphic log, showing the data charted on a representation of the wellbore.[1]
+
+The oil company representative (Company Man or "CoMan") together with the tool pusher, and well-site geologist (WSG) provides mud loggers their instruction. The mud logging company is contracted specifically as to when to start well-logging activity and what services to provide. Mud logging may begin on the first day of drilling, known as the "spud in" date but is more likely at some later time (and depth) determined by the oil industry geologist's research. The mud logger may also possess logs from wells drilled in the surrounding area. This information (known as "offset data") can provide valuable clues as to the characteristics of the particular geo-strata that the rig crew is about to drill through.
+
+Mud loggers connect various sensors to the drilling apparatus and install specialized equipment to monitor or "log" drill activity. This can be physically and mentally challenging, especially when having to be done during drilling activity. Much of the equipment will require precise calibration or alignment by the mud logger to provide accurate readings.
+
+Mud logging technicians observe and interpret the indicators in the mud returns during the drilling process, and at regular intervals log properties such as drilling rate, mud weight, flowline temperature, oil indicators, pump pressure, pump rate, lithology (rock type) of the drilled cuttings, and other data. Mud logging requires a good deal of diligence and attention. Sampling the drilled cuttings must be performed at predetermined intervals, and can be difficult during rapid drilling.
+
+Another important task of the mud logger is to monitor gas levels (and types) and notify other personnel on the rig when gas levels may be reaching dangerous levels, so appropriate steps can be taken to avoid a dangerous well blowout condition.
+Because of the lag time between drilling and the time required for the mud and cuttings to return to the surface, a modern augmentation has come into use: Measurement while drilling. The MWD technician, often a separate service company employee, logs data in a similar manner but the data is different in source and content. Most of the data logged by an MWD technician comes from expensive and complex, sometimes electronic, tools that are downhole installed at or near the drill bit.
+
+Section::::Scope.
+Mud logging includes observation and microscopic examination of drill cuttings (formation rock chips), and evaluation of gas hydrocarbon and its constituents, basic chemical and mechanical parameters of drilling fluid or drilling mud (such as chlorides and temperature), as well as compiling other information about the drilling parameters. Then data is plotted on a graphic log called a mud log. Example1, Example2.
+
+Other real-time drilling parameters that may be compiled include, but are not limited to; rate of penetration (ROP) of the bit (sometimes called the drill rate), pump rate (quantity of fluid being pumped), pump pressure, weight on bit, drill string weight, rotary speed, rotary torque, RPM (Revolutions Per Minute), SPM (Strokes Per Minute) mud volumes, mud weight and mud viscosity. This information is usually obtained by attaching "monitoring devices" to the drilling rig's equipment with a few exceptions such as the mud weight and mud viscosity which are measured by the derrickhand or the mud engineer.
+
+Rate of drilling is affected by the pressure of the column of mud in the borehole and its relative counterbalance to the internal pore pressures of the encountered rock. A rock pressure greater than the mud fluid will tend to cause rock fragments to spall as it is cut and can increase the drilling rate. "D-exponents" are mathematical trend lines which estimate this internal pressure. Thus both visual evidence of spalling and mathematical plotting assist in formulating recommendations for optimum drilling mud densities for both safety (blowout prevention) and economics. (Faster drilling is generally preferred.)
+Mud logging is often written as a single word "mudlogging". The finished product can be called a "mud log" or "mudlog". The occupational description is "mud logger" or "mudlogger". In most cases, the two word usage seems to be more common. The mud log provides a reliable "time log" of drilled formations.
+
+
+
+
+
+
+

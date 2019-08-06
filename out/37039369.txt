@@ -1,0 +1,10 @@
+Geologic overpressure
+
+Geologic overpressure in stratigraphic layers is caused by the inability of connate pore fluids to escape as the surrounding mineral matrix compacts under the lithostatic pressure caused by overlying layers. Fluid escape may be impeded by sealing of the compacting rock by surrounding impermeable layers (such as evaporites, chalk and cemented sandstones). Alternatively, the rate of burial of the stratigraphic layer may be so great that the efflux of fluid is not sufficiently rapid to maintain hydrostatic pressure.
+
+Common situations where overpressure may occur: in a buried river channel filled with coarse sand that is sealed on all sides by impermeable shales, or when there is an explosion within a confined space.
+
+It is extremely important to be able to diagnose overpressured units when drilling through them, as the drilling mud weight (density) must be adjusted to compensate. If it is not, there is a risk that the pressure difference down-well will cause a dramatic decompression of the overpressured layer and result in a blowout at the well-head with possibly disastrous consequences.
+Because overpressured sediments tend to exhibit better porosity than would be predicted from their depth, they often make attractive hydrocarbon reservoirs and are therefore of important economic interest.
+
+

@@ -1,0 +1,9 @@
+Cement bond log
+
+A cement bond log documents the evaluation of the integrity of cement work performed on an oil well. In the process of drilling and completing a well, cement is injected through the wellbore and rises up the annulus between the steel casing and the formation.
+
+A sonic tool is typically run on wireline by a service company that detects the bond of the cement to the casing and formation via a principle based on resonance. Casing that is not bound has a higher resonant vibration than that which is bound, causing the imparted energy from the sonic signal to be transferred to the formation. In this sense, the amplitude of the waveform received is the basic measurement that is evaluated.
+
+The data is collected by the tool and recorded on a log which is used by the oil producing company as an indicator of zonal isolation in the well. There are production reasons and legal reasons (governed by a petroleum regulatory body in each individual state) that dictate the well must have specific areas of isolation.
+
+

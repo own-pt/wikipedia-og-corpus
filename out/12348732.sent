@@ -1,0 +1,19 @@
+Caliper log
+
+A caliper log is a well logging tool that provides a continuous measurement of the size and shape of a borehole along its depth and is commonly used in hydrocarbon exploration when drilling wells.
+The measurements that are recorded can be an important indicator of cave ins or shale swelling in the borehole, which can affect the results of other well logs.
+
+Section::::Process.
+The caliper tool measures the variation in borehole diameter as it is withdrawn from the bottom of the hole, using two or more articulated arms that push against the borehole wall.
+Each arm is typically connected to a potentiometer which causes the resistance to change as the diameter of the borehole changes, creating a varying electrical signal that represents the changing shape of the borehole.
+This variation in output is translated into changes of diameter after a simple calibration and the caliper log is printed as a continuous series of values of hole diameter with depth.
+
+Section::::Accuracy.
+Known challenges with caliper logging include borehole spiralling.
+The position of the drill bit may precess as it drills, leading to spiraling shapes in the wellbore wall, as if the hole had been drilled by a screw.
+If the arms of the caliper log follow the grooves of the spiral, it will report too high an average diameter.
+Moving in and out of the grooves, the caliper will give erratic or periodically varying readings.
+
+In most cases, the borehole's circumference will not be a perfect circle and therefore a caliper tool with several arms is required to obtain a true understanding of the size and shape of the borehole.
+The borehole can change to an oval shape after drilling, which can cause the caliper log to overestimate the size of the borehole if its arms get stuck axis.
+

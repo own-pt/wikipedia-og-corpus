@@ -1,0 +1,49 @@
+# Wikipedia OG Corpus
+
+Subset of pages from wikipedia anotated with WN senses.
+
+Steps:
+
+1) get a set of pages from Wikipedia with it's owen tool
+https://en.wikipedia.org/wiki/Special:Export
+
+The list of pages we used is in `WikipediaPages.txt`
+
+output: Wikipedia-XXXXXX.xml
+
+
+2) run WikiExtractor http://attardi.github.io/wikiextractor/ twice to
+   produce a version with links and a version without links:
+
+#+begin_src bash
+python3.7 PATH-TO/wikiextractor/WikiExtractor.py -s -l -o out1/ Wikipedia-20190806182211.xml
+python3.7 PATH-TO/wikiextractor/WikiExtractor.py -s -o out2/ Wikipedia-20190806182211.xml
+#+end_src
+
+Manually inspected the =out2/= to clean maths, unecessary sections etc.
+
+3) Export the links
+
+#+begin_src lisp
+(load "prepare.lisp")
+(get-links "/Users/ar/work/wikipedia-og-corpus/out1/AA/wiki_00" "my.links")
+#+end_src
+
+and remove the =out1= directory.				   
+
+4) split files
+
+#+begin_src lisp
+(main "/Users/ar/work/wikipedia-og-corpus/out2/AA/wiki_00")
+#+end_src
+
+Remove the =out2/= directory.
+
+5) split de sentencas nos arquivos em out/*.txt:
+
+#+begin_src bash
+for f in *.txt ; 
+ do ~/work/apache-opennlp-1.9.0/bin/opennlp SentenceDetector ~/work/apache-opennlp-1.5.3/models/en-sent.bin < $f > `basename $f .txt`.sent; 
+done
+#+end_src
+

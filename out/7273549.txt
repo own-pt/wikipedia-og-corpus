@@ -1,0 +1,22 @@
+Spontaneous potential logging
+
+Spontaneous potential log, commonly called the self potential log or SP log, is a passive measurement taken by oil industry well loggers to characterise rock formation properties. The log works by measuring small electric potentials (measured in millivolts) between depths in the borehole and a grounded electrode at the surface. Conductive bore hole fluids are necessary to create a SP response, so the SP log cannot be used in nonconductive drilling muds (e.g. oil-based mud) or air filled holes.
+
+The change in voltage through the well bore is caused by a buildup of charge on the well bore walls. Clays and shales (which are composed predominantly of clays) will generate one charge and permeable formations such as sandstone will generate an opposite one. Spontaneous potentials occur when two aqueous solutions with different ionic concentrations are placed in contact through a porous, semi-permeable membrane. In nature, ions tend to migrate from high to low ionic concentrations. In the case of SP logging, the two aqueous solutions are the well bore fluid (drilling mud) and the formation water (connate water). The potential opposite shales is called the baseline, and typically shifts only slowly over the depth of the borehole.
+
+The relative salinity of the mud and the formation water will determine the which way the SP curve will deflect opposite a permeable formation. Generally if the ionic concentration of the well bore fluid is less than the formation fluid then the SP reading will be more negative (usually plotted as a deflection to the left). If the formation fluid has an ionic concentration less than the well bore fluid, the voltage deflection will be positive (usually plotted as an excursion to the right). The amplitudes of the line made by the changing SP will vary from formation to formation and will not give a definitive answer to how permeable or the porosity of the formation that it is logging.
+
+The presence of hydrocarbons (e.g. oil, natural gas, condensate) will reduce the response on an SP log because the interstitial water contact with the well bore fluid is reduced. This phenomenon is called hydrocarbon suppression and can be used to diagnose rocks for commercial potential. The SP curve is usually 'flat' opposite shale formations because there is no ion exchange due to the low permeability, low porosity properties (tight)thus creating a baseline. Tight rocks other than shale (e.g. tight sandstones, tight carbonates) will also result in poor or no response on the SP curve because of no ion exchange.
+
+The SP tool is one of the simplest tools and is generally run as standard when logging a hole, along with the gamma ray. SP data can be used to find:
+
+
+The SP curve can be influenced by various factors both in the formation and introduced into the wellbore by the drilling process. These factors can cause the SP curve to be muted or even inverted depending on the situation.
+
+
+Mud invasion into the permeable formation can cause the deflections in the SP curve to be rounded off and to reduce the amplitude of thin beds.
+
+A smaller wellbore will cause, like a mud filtrate invasion, the deflections on the SP curve to be rounded off and decrease the amplitude opposite thin beds, while a larger diameter wellbore has the opposite effect.
+If the salinity of the mud filtrate is greater than formation water the SP currents will flow in opposite direction. In that case SP deflection will be positive towards to the right. Positive deflections are observed for fresh water bearing formations.
+
+

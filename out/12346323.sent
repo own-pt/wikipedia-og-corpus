@@ -1,0 +1,20 @@
+Resistivity logging
+
+Resistivity logging is a method of well logging that works by characterizing the rock or sediment in a borehole by measuring its electrical resistivity.
+Resistivity is a fundamental material property which represents how strongly a material opposes the flow of electric current.
+In these logs, resistivity is measured using 4 electrical probes to eliminate the resistance of the contact leads.
+The log must run in holes containing electrically conductive mud or water.
+
+Resistivity logging is sometimes used in mineral exploration (especially exploration for iron and potassium) and water-well drilling, but most commonly for formation evaluation in oil- and gas-well drilling.
+Most rock materials are essentially insulators, while their enclosed fluids are conductors.
+Hydrocarbon fluids are an exception, because they are almost infinitely resistive.
+When a formation is porous and contains salty water, the overall resistivity will be low.
+When the formation contains hydrocarbon, or contains very low porosity, its resistivity will be high.
+High resistivity values may indicate a hydrocarbon bearing formation.
+
+Usually while drilling, drilling fluids invade the formation, changes in the resistivity are measured by the tool in the invaded zone.
+For this reason, several resistivity tools with different investigation lengths are used to measure the formation resistivity.
+If water based mud is used and oil is displaced, "deeper" resistivity logs (or those of the "virgin zone") will show lower conductivity than the invaded zone.
+If oil based mud is used and water is displaced, deeper logs will show higher conductivity than the invaded zone.
+This provides not only an indication of the fluids present, but also, at least qualitatively, whether the formation is permeable or not.
+

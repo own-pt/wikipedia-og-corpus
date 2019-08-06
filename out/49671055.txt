@@ -1,0 +1,8 @@
+Borehole image logs
+
+Borehole imaging logs are logging and data-processing methods used to produce two-dimensional, centimeter-scale images of a borehole wall and the rocks that make it up .These tools are limited to the open-hole environment. The applications where images are useful cover the full range the exploration and production (E&P) cycle from exploration through appraisal, development, and production to abandonment.
+Specific applications are sedimentology, structural geology/tectonics, reservoir geomechanics and drilling, reservoir engineering.
+
+The tools can be categorized a number of ways: energy source (electrical, acoustic, or nuclear); conveyance (wireline or logging while drilling (LWD)); and mud type (water-based mud (WMD) or oil-based mud (OBM)).
+
+
