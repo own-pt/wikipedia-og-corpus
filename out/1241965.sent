@@ -55,7 +55,7 @@ Drilling rigs can be described using any of the following attributes:
 Section::::By height.
 "Rigs are differentiated by height based on how many connected joints of drill pipe they are able to "stand" in the derrick when it is out of the hole.
 Typically this is done when changing a drill bit or when "logging" the well.
-A single joint of pipe is typically some 30 feet long."
+A single joint of pipe is typically some 30 feet long".
 
 Section::::Directional drilling (DD).
 Directional drilling is done with a mud motor on the Bottom hole assembly (BHA).
@@ -81,7 +81,7 @@ Section::::Percussion rotary air blast drilling (RAB).
 RAB drilling is used most frequently in the mineral exploration industry.
 (This tool is also known as a Down-the-hole drill.)
 The drill uses a pneumatic reciprocating piston-driven "hammer" to energetically drive a heavy drill bit into the rock.
-The drill bit is hollow, solid steel and has ~20 mm thick tungsten rods protruding from the steel matrix as "buttons".
+The drill bit is hollow, solid steel and has ~20 mm thick tungsten rods protruding from the steel matrix as "buttons".
 The tungsten buttons are the cutting face of the bit.
 
 The cuttings are blown up the outside of the rods and collected at surface.
@@ -92,7 +92,7 @@ RAB drilling at extreme depth, if it encounters water, may rapidly clog the outs
 This can be counteracted, however, with the use of "stabilizers" also known as "reamers", which are large cylindrical pieces of steel attached to the drill string, and made to perfectly fit the size of the hole being drilled.
 These have sets of rollers on the side, usually with tungsten buttons, that constantly break down cuttings being pushed upwards.
 
-The use of high-powered air compressors, which push 900-1150 cfm of air at 300-350 psi down the hole also ensures drilling of a deeper hole up to ~1250 m due to higher air pressure which pushes all rock cuttings and any water to the surface.
+The use of high-powered air compressors, which push 900-1150 cfm of air at 300-350 psi down the hole also ensures drilling of a deeper hole up to ~1250 m due to higher air pressure which pushes all rock cuttings and any water to the surface.
 This, of course, is all dependent on the density and weight of the rock being drilled, and on how worn the drill bit is.
 
 Section::::Air core drilling.
@@ -147,7 +147,7 @@ Reverse circulation is achieved by blowing air down the rods, the differential p
 It reaches the "divertor" at the top of the hole, then moves through a sample hose which is attached to the top of the "cyclone".
 The drill cuttings travel around the inside of the cyclone until they fall through an opening at the bottom and are collected in a sample bag.
 
-The most commonly used RC drill bits are 5-8 inches (13–20 cm) in diameter and have round tungsten 'buttons' that protrude from the bit, which are required to drill through shale and abrasive rock.
+The most commonly used RC drill bits are 5-8 inches (13–20 cm) in diameter and have round tungsten 'buttons' that protrude from the bit, which are required to drill through shale and abrasive rock.
 As the buttons wear down, drilling becomes slower and the rod string can potentially become bogged in the hole.
 This is a problem as trying to recover the rods may take hours and in some cases weeks.
 The rods and drill bits themselves are very expensive, often resulting in great cost to drilling companies when equipment is lost down the bore hole.
@@ -172,7 +172,7 @@ The auxiliary is a vehicle, carrying an auxiliary engine and a booster engine.
 These engines are connected to the rig by high pressure air hoses.
 Although RC rigs have their own booster and compressor to generate air pressure, extra power is needed which usually isn't supplied by the rig due to lack of space for these large engines.
 Instead, the engines are mounted on the auxiliary vehicle.
-Compressors on an RC rig have an output of around 1000 cfm at 500 psi (500 L·s at 3.4 MPa).
+Compressors on an RC rig have an output of around 1000 cfm at 500 psi (500 L·s at 3.4 MPa).
 Alternatively, stand-alone air compressors which have an output of 900-1150cfm at 300-350 psi each are used in sets of 2, 3, or 4, which are all routed to the rig through a multi-valve manifold.
 
 Section::::Diamond core drilling.
@@ -182,7 +182,7 @@ The diamonds are set within a matrix of varying hardness, from brass to high-gra
 Matrix hardness, diamond size and dosing can be varied according to the rock which must be cut.
 The bits made with hard steel with a low diamond count are ideal for softer highly fractured rock while others made of softer steels and high diamond ratio are good for coring in hard solid rock.
 Holes within the bit allow water to be delivered to the cutting face.
-This provides three essential functions — lubrication, cooling, and removal of drill cuttings from the hole.
+This provides three essential functions — lubrication, cooling, and removal of drill cuttings from the hole.
 
 Diamond drilling is much slower than reverse circulation (RC) drilling due to the hardness of the ground being drilled.
 Drilling of 1200 to 1800 metres is common and at these depths, ground is mainly hard rock.
@@ -206,12 +206,12 @@ This way the deeper metres of the hole can be drilled without moving the rig and
 
 Section::::Direct push rigs.
 Direct push technology includes several types of drilling rigs and drilling equipment which advances a drill string by pushing or hammering without rotating the drill string.
-While this does not meet the proper definition of drilling, it does achieve the same result — a borehole.
+While this does not meet the proper definition of drilling, it does achieve the same result — a borehole.
 Direct push rigs include both cone penetration testing (CPT) rigs and direct push sampling rigs such as a PowerProbe or Geoprobe.
 Direct push rigs typically are limited to drilling in unconsolidated soil materials and very soft rock.
 
 CPT rigs advance specialized testing equipment (such as electronic cones), and soil samplers using large hydraulic rams.
-Most CPT rigs are heavily ballasted (20 metric tons is typical) as a counter force against the pushing force of the hydraulic rams which are often rated up to 20 kN.
+Most CPT rigs are heavily ballasted (20 metric tons is typical) as a counter force against the pushing force of the hydraulic rams which are often rated up to 20 kN.
 Alternatively, small, light CPT rigs and offshore CPT rigs will use anchors such as screwed-in ground anchors to create the reactive force.
 In ideal conditions, CPT rigs can achieve production rates of up to 250–300 meters per day.
 
@@ -244,8 +244,8 @@ An automated drill rig (ADR) is an automated full-sized walking land-based drill
 ADRs are agile rigs that can move from pad to pad to new well sites faster than other full-sized drilling rigs.
 Each rig costs about $25 million.
 ADR is used extensively in the Athabasca oil sands.
-According to the "Oil Patch Daily News", "Each rig will generate 50,000 man-hours of work during the construction phase and upon completion, each operating rig will directly and indirectly employ more than 100 workers."
-Compared to conventional drilling rigs", Ensign, an international oilfield services contractor based in Calgary, Alberta, that makes ADRs claims that they are "safer to operate, have "enhanced controls intelligence," "reduced environmental footprint, quick mobility and advanced communications between field and office."
+According to the "Oil Patch Daily News", "Each rig will generate 50,000 man-hours of work during the construction phase and upon completion, each operating rig will directly and indirectly employ more than 100 workers".
+Compared to conventional drilling rigs", Ensign, an international oilfield services contractor based in Calgary, Alberta, that makes ADRs claims that they are "safer to operate, have "enhanced controls intelligence," "reduced environmental footprint, quick mobility and advanced communications between field and office".
 In June 2005 the first specifically designed slant automated drilling rig (ADR), Ensign Rig No. 118, for steam assisted gravity drainage (SAGD) applications was mobilized by Deer Creek Energy Limited, a Calgary-based oilsands company.
 
 Section::::Limits of the technology.

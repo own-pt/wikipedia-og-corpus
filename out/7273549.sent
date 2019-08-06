@@ -2,8 +2,7 @@ Spontaneous potential logging
 
 Spontaneous potential log, commonly called the self potential log or SP log, is a passive measurement taken by oil industry well loggers to characterise rock formation properties.
 The log works by measuring small electric potentials (measured in millivolts) between depths in the borehole and a grounded electrode at the surface.
-Conductive bore hole fluids are necessary to create a SP response, so the SP log cannot be used in nonconductive drilling muds (e.g.
-oil-based mud) or air filled holes.
+Conductive bore hole fluids are necessary to create a SP response, so the SP log cannot be used in nonconductive drilling muds (e.g. oil-based mud) or air filled holes.
 
 The change in voltage through the well bore is caused by a buildup of charge on the well bore walls.
 Clays and shales (which are composed predominantly of clays) will generate one charge and permeable formations such as sandstone will generate an opposite one.
@@ -17,12 +16,10 @@ Generally if the ionic concentration of the well bore fluid is less than the for
 If the formation fluid has an ionic concentration less than the well bore fluid, the voltage deflection will be positive (usually plotted as an excursion to the right).
 The amplitudes of the line made by the changing SP will vary from formation to formation and will not give a definitive answer to how permeable or the porosity of the formation that it is logging.
 
-The presence of hydrocarbons (e.g.
-oil, natural gas, condensate) will reduce the response on an SP log because the interstitial water contact with the well bore fluid is reduced.
+The presence of hydrocarbons (e.g. oil, natural gas, condensate) will reduce the response on an SP log because the interstitial water contact with the well bore fluid is reduced.
 This phenomenon is called hydrocarbon suppression and can be used to diagnose rocks for commercial potential.
 The SP curve is usually 'flat' opposite shale formations because there is no ion exchange due to the low permeability, low porosity properties (tight)thus creating a baseline.
-Tight rocks other than shale (e.g.
-tight sandstones, tight carbonates) will also result in poor or no response on the SP curve because of no ion exchange.
+Tight rocks other than shale (e.g. tight sandstones, tight carbonates) will also result in poor or no response on the SP curve because of no ion exchange.
 
 The SP tool is one of the simplest tools and is generally run as standard when logging a hole, along with the gamma ray.
 SP data can be used to find:

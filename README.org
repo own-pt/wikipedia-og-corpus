@@ -47,3 +47,19 @@ for f in *.txt ;
 done
 #+end_src
 
+6) See https://github.com/own-pt/sensetion.el/issues/135, to fix the
+   files for avoiding problems with sensetion/touch.py
+
+: sed -i .bak 's/\."$/"./' *.sent
+: sed -i .bak 's/ / /' *.sent
+
+remove the =.bak= files. I have also manually (using deadgrep in
+Emacs) search for split errors searching for lines starting with
+lowercase characters.
+
+7) sensetion preprocessing
+
+#+begin_src bash
+python touch.py -c ~/hpsg/terg/pet/repp.set ~/work/wikipedia-og-corpus/out/*.sent > ~/work/wikipedia-og-corpus/t0.jsonl
+python enrich.py --es ~/work/wikipedia-og-corpus/t0.jsonl > ~/work/wikipedia-og-corpus/t1.jsonl
+#+end_src

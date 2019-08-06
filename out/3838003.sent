@@ -42,20 +42,15 @@ Such shear wave splitting can be directly analyzed only on three component geoph
 Observation of these shear waves show that measuring the orientation and polarization of the first arrival and the delay between these split shear waves reveal the orientation of cracks and the crack density .
 This is particularly important in reservoir characterization.
 
-In a linearly elastic material, which can be described by Hooke's law as one in which each component of stress is dependent on every component of strain, the following relationship exists:
-
-where "σ" is the stress, "C" is the elastic moduli or stiffness constant, and "e" is the strain.
+In a linearly elastic material, which can be described by Hooke's law as one in which each component of stress is dependent on every component of strain, the following relationship exists: MATH where "σ" is the stress, "C" is the elastic moduli or stiffness constant, and "e" is the strain.
 
 The elastic modulus matrix for an anisotropic case is
 The above is the elastic modulus for a vertical transverse isotropic medium (VTI), which is the usual case.
 The elastic modulus for a horizontal transverse isotropic medium (HTI) is;
-For an anisotropic medium, the directional dependence of the three phase velocities can be written by applying the elastic moduli in the wave equation is; The direction dependent wave speeds for elastic waves through the material can be found by using the Christoffel equation and are given by
-where formula_5 is the angle between the axis of symmetry and the wave propagation direction, formula_6 is mass density and the formula_7 are elements of the elastic stiffness matrix.
+For an anisotropic medium, the directional dependence of the three phase velocities can be written by applying the elastic moduli in the wave equation is; The direction dependent wave speeds for elastic waves through the material can be found by using the Christoffel equation and are given by MATH where formula_5 is the angle between the axis of symmetry and the wave propagation direction, formula_6 is mass density and the formula_7 are elements of the elastic stiffness matrix.
 The Thomsen parameters are used to simplify these expressions and make them easier to understand.
 
-Seismic anisotropy has been observed to be weak, and Thomsen (1986) rewrote the velocities above in terms of their deviation from the vertical velocities as follows;
-where
-are the P and S wave velocities in the direction of the axis of symmetry (formula_10) (in geophysics, this is usually, but not always, the vertical direction).
+Seismic anisotropy has been observed to be weak, and Thomsen (1986) rewrote the velocities above in terms of their deviation from the vertical velocities as follows; MATH where MATH are the P and S wave velocities in the direction of the axis of symmetry (formula_10) (in geophysics, this is usually, but not always, the vertical direction).
 Note that formula_11 may be further linearized, but this does not lead to further simplification.
 
 The approximate expressions for the wave velocities are simple enough to be physically interpreted, and sufficiently accurate for most geophysical applications.
@@ -72,9 +67,7 @@ A solid has intrinsic anisotropy when it is homogeneously and sinuously anisotro
 Relevant crystallographic anisotropy can be found in the upper mantle.
 When an otherwise isotropic rock contains a distribution of dry or liquid-filled cracks which have preferred orientation it is named crack induced anisotropy.
 The presence of aligned cracks, open or filled with some different material, is an important mechanism at shallow depth, in the crust.
-It is well known that the small-scale, or microstructural, factors include (e.g.
-Kern & Wenk 1985; Mainprice et al. 2003): (1) crystal lattice preferred orientation (LPO) of constituent mineral phases; (2) variations in spatial distribution of grains and minerals; (3) grain morphology and (4) aligned fractures, cracks and pores, and the nature of their infilling material (e.g.
-clays, hydrocarbons, water, etc.).
+It is well known that the small-scale, or microstructural, factors include (e.g. Kern & Wenk 1985; Mainprice et al. 2003): (1) crystal lattice preferred orientation (LPO) of constituent mineral phases; (2) variations in spatial distribution of grains and minerals; (3) grain morphology and (4) aligned fractures, cracks and pores, and the nature of their infilling material (e.g. clays, hydrocarbons, water, etc.).
 Because of the overall microstructural control on seismic anisotropy, it follows that anisotropy can be diagnostic for specific rock types.
 Here, we consider whether seismic anisotropy can be used as an indicator of specific sedimentary lithologies within the Earth's crust.
 In sedimentary rocks, anisotropy develops during and after deposition.
@@ -142,7 +135,7 @@ The following diagram gives us a clear image on the arrangement of the transduce
 
 Once the velocities at three directions are measured by one of the above two methods, the five independent elastic constants are given by the following equations:
 The P-wave anisotropy of a VTI medium can be described by using Thomsen's parameters formula_21.
-formula_22 quantifies the velocity difference for wave propagation along and perpendicular to the symmetry axis, while formula_11 controls the P-wave propagation for angles near the symmetry axis.
+The formula_22 quantifies the velocity difference for wave propagation along and perpendicular to the symmetry axis, while formula_11 controls the P-wave propagation for angles near the symmetry axis.
 
 Section::::Deviated well sonic log.
 The last technique can be used to measure the seismic anisotropy is related to the sonic logging information of a deviated well.
@@ -151,8 +144,7 @@ This difference in velocity between deviated well and vertical well reflects the
 The detail of this technique will be shown on an example of this report.
 
 Section::::Anisotropic prestack depth migration.
-In the situation of complex geology, e.g.
-faulting, folding, fracturing, salt bodies, and unconformities, pre-stack migration (PreSM) is used due to better resolution under such complex geology.
+In the situation of complex geology, e.g. faulting, folding, fracturing, salt bodies, and unconformities, pre-stack migration (PreSM) is used due to better resolution under such complex geology.
 In PreSM, all traces are migrated before being moved to zero-offset.
 As a result, much more information is used, which results in a much better image, along with the fact that PreSM honours velocity changes more accurately than post-stack migration.
 The PreSM is extremely sensitive to the accuracy of the velocity field.

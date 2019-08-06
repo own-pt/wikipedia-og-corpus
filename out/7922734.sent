@@ -43,11 +43,11 @@ The result is a reduced crossover.
 For deep invasion (invasion beyond the DOIs of both tools) the crossover indication disappears and the two logs will not recognize the presence of gas.
 
 A main complication in deriving an accurate porosity in the presence of shallow invasion comes from the fact that the neutron and density logging devices typically have different DOIs.
-It is well known that the 50% DOI of the thermal neutron porosity tool is 6 to 12 inches (15 to 30 cm) depending upon the porosity and gas saturation of the formation and the 50% DOI of the density tool is about 2 to 3 inches (5 to 8 cm).
-When the invasion front is greater than 12 inches (30 cm), both tools see only water-filled formations and the two porosity estimates agree and read true porosity.
-When the invasion front is less than 12 inches (30 cm) but greater than 6 inches (15 cm), the density tool sees only the invaded formation while the neutron tool is sensitive to both the invaded and the noninvaded region.
+It is well known that the 50% DOI of the thermal neutron porosity tool is 6 to 12 inches (15 to 30 cm) depending upon the porosity and gas saturation of the formation and the 50% DOI of the density tool is about 2 to 3 inches (5 to 8 cm).
+When the invasion front is greater than 12 inches (30 cm), both tools see only water-filled formations and the two porosity estimates agree and read true porosity.
+When the invasion front is less than 12 inches (30 cm) but greater than 6 inches (15 cm), the density tool sees only the invaded formation while the neutron tool is sensitive to both the invaded and the noninvaded region.
 Under these conditions, the density porosity estimate is the true value, while the neutron porosity estimate is still low.
-Below 6 inches (15 cm) of invasion, both tools are sensitive to both the invaded and noninvaded regions.
+Below 6 inches (15 cm) of invasion, both tools are sensitive to both the invaded and noninvaded regions.
 Thus, for a certain range of depths of invasion, accurate determination of formation porosity becomes very difficult.
 
 Without the knowledge of the depth of the invasion front, porosity determination in the intermediate invasion range becomes virtually impossible.

@@ -1,8 +1,7 @@
 Density logging
 
 Density logging is a well logging tool that can provide a continuous record of a formation's bulk density along the length of a borehole.
-In geology, bulk density is a function of the density of the minerals forming a rock (i.e.
-matrix) and the fluid enclosed in the pore spaces.
+In geology, bulk density is a function of the density of the minerals forming a rock (i.e. matrix) and the fluid enclosed in the pore spaces.
 This is one of three well logging tools that are commonly used to calculate porosity, the other two being sonic logging and neutron porosity logging
 
 Section::::History & Principle.
@@ -10,8 +9,7 @@ The tool was initially developed in the 1950s and was in use throughout the hydr
 A type of active nuclear tool, a radioactive source and detector are lowered down the borehole and the source emits medium-energy gamma rays into the formation.
 Radioactive sources are typically a directional Cs-137 source.
 These gamma rays interact with electrons in the formation and are scattered in an interaction known as Compton scattering.
-The number of scattered gamma rays that reach the detector, placed at a set distance from the emitter, is related to the formation's electron density, which itself is related to the formation's bulk density (formula_1) via
-where formula_3 is the atomic number, and formula_4 is the molecular weight of the compound.
+The number of scattered gamma rays that reach the detector, placed at a set distance from the emitter, is related to the formation's electron density, which itself is related to the formation's bulk density (formula_1) via MATH where formula_3 is the atomic number, and formula_4 is the molecular weight of the compound.
 For most elements formula_5 is about 1/2 (except for hydrogen where this ratio is 1).
 The electron density (formula_6) in g/cm³ determines the response of the density tool.
 

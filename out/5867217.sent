@@ -3,14 +3,11 @@ Archie's law
 In petrophysics, Archie's law relates the in-situ electrical conductivity of a sedimentary rock to its porosity and brine saturation:
 Here, formula_2 denotes the porosity, formula_3 the electrical conductivity of the fluid saturated rock, formula_4 represents the electrical conductivity of the brine, formula_5 is the brine saturation, formula_6 is the cementation exponent of the rock (usually in the range 1.8–2.0 for sandstones), formula_7 is the saturation exponent (usually close to 2) and formula_8 is the tortuosity factor.
 
-Reformulated for electrical resistivity, the equation reads
-with formula_10 for the fluid saturated rock resistivity, and formula_11 for the brine resistivity.
+Reformulated for electrical resistivity, the equation reads MATH with formula_10 for the fluid saturated rock resistivity, and formula_11 for the brine resistivity.
 
-The factor
-is also called the formation factor, where formula_13 is the resistivity of the rock filled with only water (formula_14).
+The factor MATH is also called the formation factor, where formula_13 is the resistivity of the rock filled with only water (formula_14).
 
-The factor
-is also called the resistivity index.
+The factor MATH is also called the resistivity index.
 
 It is a purely empirical law attempting to describe ion flow (mostly sodium and chloride) in clean, consolidated sands, with varying intergranular porosity.
 Electrical conduction is assumed not to be present within the rock grains or in fluids other than water.
@@ -41,8 +38,7 @@ Section::::Tortuosity factor, formula_8.
 The constant formula_8, called the "tortuosity factor", "cementation intercept", "lithology factor" or, "lithology coefficient" is sometimes used.
 It is meant to correct for variation in compaction, pore structure and grain size.
 The parameter a is called the tortuosity factor and clearly is related to the path length of the current flow.
-The value lies in the range 0.5 to 1.5.
-a may be different in different reservoirs.
+The value lies in the range 0.5 to 1.5, and it may be different in different reservoirs.
 However a typical value to start with for a sandstone reservoir might be 0.6, which then can be tuned during log data matching process with other sources of data such as core.
 
 Section::::Measuring the exponents.

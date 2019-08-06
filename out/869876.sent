@@ -2,8 +2,7 @@ Geologic modelling
 
 Geologic modelling, geological modelling or geomodelling is the applied science of creating computerized representations of portions of the Earth's crust based on geophysical and geological observations made on and below the Earth surface.
 A geomodel is the numerical equivalent of a three-dimensional geological map complemented by a description of physical quantities in the domain of interest.
-Geomodelling is related to the concept of Shared Earth Model; 
-which is a multidisciplinary, interoperable and updatable knowledge base about the subsurface.
+Geomodelling is related to the concept of Shared Earth Model; which is a multidisciplinary, interoperable and updatable knowledge base about the subsurface.
 
 Geomodelling is commonly used for managing natural resources, identifying natural hazards, and quantifying geological processes, with main applications to oil and gas fields, groundwater aquifers and ore deposits.
 For example, in the oil and gas industry, realistic geologic models are required as input to reservoir simulator programs, which predict the behavior of the rocks under various hydrocarbon recovery scenarios.
@@ -43,10 +42,8 @@ The preferred methods for calculating hydrocarbon saturations in a geologic mode
 
 Section::::Geostatistics.
 An important part of geologic modelling is related to geostatistics.
-In order to represent the observed data, often
-not on regular grids, we have to use certain interpolation techniques.
-The most widely used technique is kriging
-which uses the spatial correlation among data and intends to construct the interpolation via semi-variograms.
+In order to represent the observed data, often not on regular grids, we have to use certain interpolation techniques.
+The most widely used technique is kriging which uses the spatial correlation among data and intends to construct the interpolation via semi-variograms.
 To reproduce more realistic spatial variability and help assess spatial uncertainty between data, geostatistical simulation based on variograms, training images, or parametric geological objects is often used.
 
 Section::::Mineral Deposits.

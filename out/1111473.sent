@@ -7,7 +7,7 @@ Well logging is performed in boreholes drilled for the oil and gas, groundwater,
 
 Section::::Wireline logging.
 The oil and gas industry uses wireline logging to obtain a continuous record of a formation's rock properties.
-Wireline logging can be defined as being "The acquisition and analysis of geophysical data performed as a function of well bore depth, together with the provision of related services."
+Wireline logging can be defined as being "The acquisition and analysis of geophysical data performed as a function of well bore depth, together with the provision of related services".
 Note that "wireline logging" and "mud logging" are not the same, yet are closely linked through the integration of the data sets.
 The measurements are made referenced to "TAH" - True Along Hole depth: these and the associated analysis can then be used to infer further properties, such as hydrocarbon saturation and formation pressure, and to make further drilling and production decisions.
 
@@ -123,8 +123,8 @@ A log of the natural radioactivity of the formation along the borehole, measured
 This is because sandstones are usually nonradioactive quartz, whereas shales are naturally radioactive due to potassium isotopes in clays, and adsorbed uranium and thorium.
 
 In some rocks, and in particular in carbonate rocks, the contribution from uranium can be large and erratic, and can cause the carbonate to be mistaken for a shale.
-In this case, The carbonate gamma ray is a better indicator of shaliness.
-the carbonate gamma ray log is a gamma ray log from which the uranium contribution has been subtracted.
+In this case, the carbonate gamma ray is a better indicator of shaliness.
+The carbonate gamma ray log is a gamma ray log from which the uranium contribution has been subtracted.
 
 Section::::Self/spontaneous potential.
 The Spontaneous Potential (SP) log measures the natural or spontaneous potential difference between the borehole and the surface, without any applied current.
@@ -185,7 +185,7 @@ Section::::Mudlogging.
 In the oil industry they are usually prepared by a mud logging company contracted by the operating company.
 One parameter a typical mud log displays is the formation gas (gas units or ppm).
 "The gas recorder usually is scaled in terms of arbitrary gas units, which are defined differently by the various gas-detector manufactures.
-In practice, significance is placed only on relative changes in the gas concentrations detected."
+In practice, significance is placed only on relative changes in the gas concentrations detected".
 The current oil industry standard mud log normally includes real-time drilling parameters such as rate of penetration (ROP), lithology, gas hydrocarbons, flow line temperature (temperature of the drilling fluid) and chlorides but may also include mud weight, estimated pore pressure and corrected d-exponent (corrected drilling exponent) for a pressure pack log.
 Other information that is normally notated on a mud log include directional data (deviation surveys), weight on bit, rotary speed, pump pressure, pump rate, viscosity, drill bit info, casing shoe depths, formation tops, mud pump info, to name just a few.
 
