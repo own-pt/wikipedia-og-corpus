@@ -19,39 +19,39 @@ These 3D grids are the equivalent to 2D grids used to express properties of sing
 
 Geomodelling generally involves the following steps:
 
-Section::::Geologic modelling components.
-Section::::Structural framework.
+Section:: Geologic modelling components.
+Section:: Structural framework.
 Incorporating the spatial positions of the major formation boundaries, including the effects of faulting, folding, and erosion (unconformities).
 The major stratigraphic divisions are further subdivided into layers of cells with differing geometries with relation to the bounding surfaces (parallel to top, parallel to base, proportional).
 Maximum cell dimensions are dictated by the minimum sizes of the features to be resolved (everyday example: On a digital map of a city, the location of a city park might be adequately resolved by one big green pixel, but to define the locations of the basketball court, the baseball field, and the pool, much smaller pixels – higher resolution – need to be used).
 
-Section::::Rock type.
+Section:: Rock type.
 Each cell in the model is assigned a rock type.
 In a coastal clastic environment, these might be beach sand, high water energy marine upper shoreface sand, intermediate water energy marine lower shoreface sand, and deeper low energy marine silt and shale.
 The distribution of these rock types within the model is controlled by several methods, including map boundary polygons, rock type probability maps, or statistically emplaced based on sufficiently closely spaced well data.
 
-Section::::Reservoir quality.
+Section:: Reservoir quality.
 Reservoir quality parameters almost always include porosity and permeability, but may include measures of clay content, cementation factors, and other factors that affect the storage and deliverability of fluids contained in the pores of those rocks.
 Geostatistical techniques are most often used to populate the cells with porosity and permeability values that are appropriate for the rock type of each cell.
 
-Section::::Fluid saturation.
+Section:: Fluid saturation.
 Most rock is completely saturated with groundwater.
 Sometimes, under the right conditions, some of the pore space in the rock is occupied by other liquids or gases.
 In the energy industry, oil and natural gas are the fluids most commonly being modelled.
 The preferred methods for calculating hydrocarbon saturations in a geologic model incorporate an estimate of pore throat size, the densities of the fluids, and the height of the cell above the water contact, since these factors exert the strongest influence on capillary action, which ultimately controls fluid saturations.
 
-Section::::Geostatistics.
+Section:: Geostatistics.
 An important part of geologic modelling is related to geostatistics.
 In order to represent the observed data, often not on regular grids, we have to use certain interpolation techniques.
 The most widely used technique is kriging which uses the spatial correlation among data and intends to construct the interpolation via semi-variograms.
 To reproduce more realistic spatial variability and help assess spatial uncertainty between data, geostatistical simulation based on variograms, training images, or parametric geological objects is often used.
 
-Section::::Mineral Deposits.
+Section:: Mineral Deposits.
 Geologists involved in mining and mineral exploration use geologic modelling to determine the geometry and placement of mineral deposits in the subsurface of the earth.
 Geologic models help define the volume and concentration of minerals, to which economic constraints are applied to determine the economic value of the mineralization.
 Mineral deposits that are deemed to be economic may be developed into a mine.
 
-Section::::Technology.
+Section:: Technology.
 Geomodelling and CAD share a lot of common technologies.
 Software is usually implemented using object-oriented programming technologies in C++, Java or C# on one or multiple computer platforms.
 The graphical user interface generally consists of one or several 3D and 2D graphics windows to visualize spatial data, interpretations and modelling output.
@@ -61,16 +61,16 @@ GIS (Geographic Information System) is also a widely used tool to manipulate geo
 
 Geometric objects are represented with parametric curves and surfaces or discrete models such as polygonal meshes.
 
-Section::::Research in Geomodelling.
+Section:: Research in Geomodelling.
 Problems pertaining to Geomodelling cover:
 
-Section::::History.
+Section:: History.
 In the 70's, geomodelling mainly consisted of automatic 2D cartographic techniques such as contouring, implemented as FORTRAN routines communicating directly with plotting hardware.
 The advent of workstations with 3D graphics capabilities during the 80's gave birth to a new generation of geomodelling software with graphical user interface which became mature during the 90's.
 
 Since its inception, geomodelling has been mainly motivated and supported by oil and gas industry.
 
-Section::::Geologic modelling software.
+Section:: Geologic modelling software.
 Software developers have built several packages for geologic modelling purposes.
 Such software can display, edit, digitise and automatically calculate the parameters required by engineers, geologists and surveyors.
 Current software is mainly developed and commercialized by oil and gas or mining industry software vendors:

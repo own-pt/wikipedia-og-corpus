@@ -2,7 +2,7 @@ Seismic anisotropy
 
 Seismic anisotropy is a term used in seismology to describe the directional dependence of the velocity of seismic waves in a medium (rock) within the Earth.
 
-Section::::Description.
+Section:: Description.
 A material is said to be anisotropic if the value of one or more of its properties varies with direction.
 Anisotropy differs from the property called heterogeneity in that anisotropy is the variation in values with direction at a point while heterogeneity is the variation in values between two or more points.
 
@@ -18,7 +18,7 @@ The transverse anisotropic matrix has the same form as the isotropic matrix, exc
 Transverse isotropy is sometimes called transverse anisotropy or anisotropy with hexagonal symmetry.
 In many cases the axis of symmetry will be neither horizontal nor vertical, in which case it is often called "tilted".
 
-Section::::History of the recognition of anisotropy.
+Section:: History of the recognition of anisotropy.
 Anisotropy dates back to the 19th century following the theory of Elastic wave propagation.
 Green (1838) and Lord Kelvin (1856) took anisotropy into account in their articles on wave propagation.
 Anisotropy entered seismology in the late 19th century and was introduced by Maurice Rudzki.
@@ -31,7 +31,7 @@ One of the main points by Crampin was that the polarization of three component s
 
 With these new developments and the acquisition of better and new types of data such as three component 3D seismic data, which clearly show the effects of shear wave splitting, and wide Azimuth 3D data which show the effects of Azimuthal anisotropy, and the availability of more powerful computers, anisotropy began to have great impact in exploration seismology in the past three decades.
 
-Section::::Concept of seismic anisotropy.
+Section:: Concept of seismic anisotropy.
 Since the understanding of seismic anisotropy is closely tied to the shear wave splitting, we begin this section by discussing shear wave splitting.
 
 Shear waves have been observed to split into two or more fixed polarizations which can propagate in the particular ray direction when entering an anisotropic medium.
@@ -58,7 +58,7 @@ These expressions are also useful in some contexts where the anisotropy is not w
 
 The Thomsen parameters are anisotropic and are three non-dimensional combinations which reduce to zero in isotropic cases, and are defined as
 
-Section::::Origin of anisotropy.
+Section:: Origin of anisotropy.
 Anisotropy has been reported to occur in the Earth's three main layers; the crust, mantle and the core.
 
 The origin of seismic anisotropy is non-unique, a range of phenomena may cause Earth materials to display seismic anisotropy.
@@ -75,7 +75,7 @@ For anisotropy to develop, there needs to be some degree of homogeneity or unifo
 During deposition, anisotropy is caused by the periodic layering associated with changes in sediment type which produces materials of different grain size, and also by the directionality of the transporting medium which tends to order the grains under gravity by grain sorting.
 Fracturing and some diagenetic processes such as compaction and dewatering of clays, and alteration etc. are post depositional processes that can cause anisotropy .
 
-Section::::The importance of anisotropy in hydrocarbon exploration and production.
+Section:: The importance of anisotropy in hydrocarbon exploration and production.
 In the past two decades, the seismic anisotropy has dramatically been gaining attention from academic and industry, due to advances in anisotropy parameter estimation, the transition from post stack imaging to pre stack depth migration, and the wider offset and azimuthal coverage of 3D surveys.
 Currently, many seismic processing and inversion methods utilize anisotropic models, thus providing a significant enhancement over the seismic imaging quality and resolution.
 The integration of anisotropy velocity model with seismic imaging has reduced uncertainty on internal and bounding-fault positions, thus greatly reduce the risk of investment decision based heavily on seismic interpretation.
@@ -84,10 +84,10 @@ In addition, the establishment of correlation between anisotropy parameters, fra
 The acquisition of such information, fracture spatial distribution and density, the drainage area of each producing well can be dramatically increased if taking the fractures into account during the drilling decision process.
 The increased drainage area per well will result in fewer wells, greatly reducing the drilling cost of exploration and production (E&P) projects.
 
-Section::::The application of the anisotropy in petroleum exploration and production.
+Section:: The application of the anisotropy in petroleum exploration and production.
 Among several applications of seismic anisotropy, the following are the most important: anisotropic parameter estimation, prestack depth anisotropy migration, and fracture characterization based on anisotropy velocity models.
 
-Section::::Anisotropy parameter estimation.
+Section:: Anisotropy parameter estimation.
 The anisotropy parameter is most fundamental to all other anisotropy application in E&P area.
 In the early days of seismic petroleum exploration, the geophysicists were already aware of the anisotropy-induced distortion in P-wave imaging (the major of petroleum exploration seismic surveys).
 Although the anisotropy-induced distortion is less significant since the poststack processing of narrow-azimuth data is not sensitive to velocity.
@@ -103,7 +103,7 @@ In conclusion, seismic properties of shale are important for both exploration an
 Seismic velocity anisotropy in shale can be estimated from several methods, including deviated-well sonic logs, walkway VSP, and core measurement.
 These methods have their own advantages and disadvantages: the walkway VSP method suffers from scaling issues, and core measure is impractical for shale, since shale is hard to be cored during drilling.
 
-Section::::Walkway VSP.
+Section:: Walkway VSP.
 The Walkway VSP array several seismic surface sources at different offset from the well.
 Meanwhile, a vertical receiver array with constant interval between receivers is mounted in a vertical well.
 The sound arrival times between multiple surface sources and receivers at multiple depths are recorded during measurement.
@@ -112,7 +112,7 @@ Where formula_15 is the arrival time from source with formula_16 offset, formula
 
 The layout of surface sources and receivers positions is shown in the following diagram.
 
-Section::::Core measurement.
+Section:: Core measurement.
 Another technique used to estimate the anisotropy parameter is directly measure them from the core which is extracted through a special hollow drill bit during drill process.
 Since coring a sample will generate large extra cost, only limited number of core samples can be obtained for each well.
 Thus the anisotropy parameter obtained through core measurement technique only represent the anisotropy property of rock near the borehole at just several specific depth, rending this technique often provides little help on the field seismic survey application.
@@ -137,13 +137,13 @@ Once the velocities at three directions are measured by one of the above two met
 The P-wave anisotropy of a VTI medium can be described by using Thomsen's parameters formula_21.
 The formula_22 quantifies the velocity difference for wave propagation along and perpendicular to the symmetry axis, while formula_11 controls the P-wave propagation for angles near the symmetry axis.
 
-Section::::Deviated well sonic log.
+Section:: Deviated well sonic log.
 The last technique can be used to measure the seismic anisotropy is related to the sonic logging information of a deviated well.
 In a deviated well, the wave propagation velocity is higher than the wave propagation velocity in a vertical well at the same depth.
 This difference in velocity between deviated well and vertical well reflects the anisotropy parameters of the rocks near the borehole.
 The detail of this technique will be shown on an example of this report.
 
-Section::::Anisotropic prestack depth migration.
+Section:: Anisotropic prestack depth migration.
 In the situation of complex geology, e.g. faulting, folding, fracturing, salt bodies, and unconformities, pre-stack migration (PreSM) is used due to better resolution under such complex geology.
 In PreSM, all traces are migrated before being moved to zero-offset.
 As a result, much more information is used, which results in a much better image, along with the fact that PreSM honours velocity changes more accurately than post-stack migration.
@@ -160,14 +160,14 @@ We show case studies that illustrate this integration of the geosciences.
 We show that much better accuracy is being achieved.
 The logical conclusion is that, this integrated approach should extend the use of anisotropic depth imaging from complex geology only, to routine application on all reservoirs.
 
-Section::::Fracture characterization.
+Section:: Fracture characterization.
 After considering applications of anisotropy that improved seismic imaging, two approaches for exploiting anisotropy for the analysis of fractures in the formation are worthy of discussing.
 Ones uses azimuthal variations in the amplitude versus offset (AVO) signature when the wave is reflected from the top or base of an anisotropic material, and a second exploits the polarizing effect that the fractures have on a transmitted shear-wave.
 In both cases, the individual fractures are below the resolving power of the seismic signal and it is the cumulative effect of the fracturing that is recorded.
 Based on the idea behind them, both approaches can be divided into two steps.
 The first step is to get the anisotropy parameters from seismic signals, and the second steps is to retreat the information of fractures from anisotropy parameters based on the fracture induce anisotropy model.
 
-Section::::Fractures-azimuthal variations.
+Section:: Fractures-azimuthal variations.
 Aligned subseismic-scale fracturing can produce seismic anisotropy (i.e., seismic velocity varies with direction) and leads to measurable directional differences in traveltimes and reflectivity.
 If the fractures are vertically aligned, they will produce azimuthal anisotropy (the simplest case being horizontal transverse isotropy, or HTI) such that reflectivity of an interface depends on azimuth as well as offset.
 If either of the media bounding the interface is azimuthally anisotropic, the AVO will have an azimuthal dependence .
@@ -175,18 +175,18 @@ The P-P wave reflection coefficient have the following relation with the azimuta
 
 Where formula_25 is the azimuth from data acquisition grid, the terms formula_26 are coefficients describing anisotropy parameter.
 
-Section::::Fractures- shear-wave splitting.
+Section:: Fractures- shear-wave splitting.
 The behavior of shear waves as they pass through anisotropic media has been recognized for many years, with laboratory and field observations demonstrating how the shear wave splits into two polarized components with their planes aligned parallel and perpendicular to the anisotropy.
 For a fractured medium, the faster shear wave is generally aligned with the strike direction and the time delay between the split shear waves related to the fracture density and path length traveled.
 For layered medium, the shear wave polarized parallel to the layering arrives first.
 
-Section::::Examples of the application of anisotropy.
-Section::::Example of anisotropy in petroleum E&P.
+Section:: Examples of the application of anisotropy.
+Section:: Example of anisotropy in petroleum E&P.
 Two examples will be discussed in there to show the anisotropy application in Petroleum E&P area.
 The first related to anisotropy parameter estimation via deviated well sonic logging tool.
 And the second example reflects the image quality improvement by PreStack Depth Migration technology.
 
-Section::::Example of deviated well sonic logging.
+Section:: Example of deviated well sonic logging.
 In this case, the sonic velocity in a deviated well is obtained by dipole sonic logging tool .
 The formation is mostly composed of shale.
 In order to use the TI model, several assumptions are made:
@@ -209,7 +209,7 @@ By doing the above correction calculation, the corrected formula_36 is plot vs d
 As be seen in the plot, most of the data point falls on the trend line.
 It validate the correctness of the estimate of anisotropy parameter.
 
-Section::::Example of prestack depth migration Imaging.
+Section:: Example of prestack depth migration Imaging.
 In this case, the operator conducted several seismic surveys on a gas field in the north sea over the period of 1993-1998 .
 The early survey does not take into anisotropy into account, while the later survey employs the PreStack Depth Migration imaging.
 This PSDM was done on a commercial seismic package developed by Total.
@@ -218,14 +218,14 @@ The top plot is a convention 3D survey without anisotropy effect.
 The bottom plot used PSDM method.
 As can be seen in the bottom plot, more small structure features are revealed due to the reduce of error and improved resolution.
 
-Section::::Limitations of seismic anisotropy.
+Section:: Limitations of seismic anisotropy.
 Seismic anisotropy relies on shear waves, shear waves carry rich information which can sometimes impede its utilization.
 Shear waves survey for anisotropy requires multi component (usually 3 component) geophones which are oriented at angles, these are more expensive than the widely used vertical oriented single component geophones.
 However, while expensive 3 component seismometers are much more powerful in their ability to collect valuable information about the Earth that vertical component seismometers simply cannot.
 While seismic waves do attenuate, large earthquakes (moment magnitude > 5) have the ability to produce observable shear waves.
 The second law of thermodynamics ensures a higher attenuation of shear wave reflected energy, this tends to impede the utilization of shear wave information for smaller earthquakes.
 
-Section::::Crustal anisotropy.
+Section:: Crustal anisotropy.
 In the Earth's crust, anisotropy may be caused by preferentially aligned joints or microcracks, by layered bedding in sedimentary formations, or by highly foliated metamorphic rocks.
 Crustal anisotropy resulting from aligned cracks can be used to determine the state of stress in the crust, since in many cases, cracks are preferentially aligned with their flat faces oriented in the direction of minimum compressive stress.
 In active tectonic areas, such as near faults and volcanoes, anisotropy can be used to look for changes in preferred orientation of cracks that may indicate a rotation of the stress field.
@@ -241,7 +241,7 @@ Crustal anisotropy is very important in the production of oil reservoirs, as the
 In crustal geophysics, the anisotropy is usually weak; this enables a simplification of the expressions for seismic velocities and reflectivities, as functions of propagation (and polarization) direction.
 In the simplest geophysically plausible case, that of polar anisotropy, the analysis is most conveniently done in terms of Thomsen Parameters.
 
-Section::::Mantle anisotropy.
+Section:: Mantle anisotropy.
 In the mantle, anisotropy is normally associated with crystals (mainly olivine) aligned with the mantle flow direction called lattice preferred orientation (LPO).
 Due to their elongate crystalline structure, olivine crystals tend to align with the flow due to mantle convection or small scale convection.
 Anisotropy has long been used to argue whether plate tectonics is driven from below by mantle convection or from above by the plates, i.e. slab pull and ridge push.

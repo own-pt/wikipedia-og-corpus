@@ -15,8 +15,8 @@ Electrical conduction is assumed not to be present within the rock grains or in 
 Archie's law is named after Gus Archie (1907–1978) who developed this empirical quantitative relationship between porosity, electrical conductivity, and brine saturation of rocks.
 Archie's law laid the foundation for modern well log interpretation as it relates borehole electrical conductivity measurements to hydrocarbon saturations (which, for fluid saturated rock, equals formula_16).
 
-Section::::Parameters.
-Section::::Cementation exponent, formula_6.
+Section:: Parameters.
+Section:: Cementation exponent, formula_6.
 The cementation exponent models how much the pore network increases the resistivity, as the rock itself is assumed to be non-conductive.
 If the pore network were to be modelled as a set of parallel capillary tubes, a cross-section area average of the rock's resistivity would yield porosity dependence equivalent to a cementation exponent of 1.
 However, the tortuosity of the rock increases this to a higher number than 1.
@@ -29,19 +29,19 @@ Values between 1.7 and 4.1 have been observed.
 
 The cementation exponent is usually assumed not to be dependent on temperature.
 
-Section::::Saturation exponent, formula_7.
+Section:: Saturation exponent, formula_7.
 The saturation exponent formula_7 usually is fixed to values close to 2. The saturation exponent models the dependency on the presence of non-conductive fluid (hydrocarbons) in the pore-space, and is related to the wettability of the rock.
 Water-wet rocks will, for low water saturation values, maintain a continuous film along the pore walls making the rock conductive.
 Oil-wet rocks will have discontinuous droplets of water within the pore space, making the rock less conductive.
 
-Section::::Tortuosity factor, formula_8.
+Section:: Tortuosity factor, formula_8.
 The constant formula_8, called the "tortuosity factor", "cementation intercept", "lithology factor" or, "lithology coefficient" is sometimes used.
 It is meant to correct for variation in compaction, pore structure and grain size.
 The parameter a is called the tortuosity factor and clearly is related to the path length of the current flow.
 The value lies in the range 0.5 to 1.5, and it may be different in different reservoirs.
 However a typical value to start with for a sandstone reservoir might be 0.6, which then can be tuned during log data matching process with other sources of data such as core.
 
-Section::::Measuring the exponents.
+Section:: Measuring the exponents.
 In petrophysics, the only reliable source for the numerical value of both exponents is experiments on sand plugs from cored wells.
 The brine conductivity can be measured directly on produced water samples.
 Alternatively, the brine conductivity and the cementation exponent can also be inferred from downhole electrical conductivity measurements across brine-saturated intervals.
@@ -49,7 +49,7 @@ For brine-saturated intervals (formula_14) Archie's law can be written
 
 Hence, plotting the logarithm of the measured in-situ electrical conductivity against the logarithm of the measured in-situ porosity (Pickett plot), according to Archie's law a straight-line relationship is expected with slope equal to the cementation exponent formula_6 and intercept equal to the logarithm of the in-situ brine conductivity.
 
-Section::::Sands with clay/shaly sands.
+Section:: Sands with clay/shaly sands.
 Archie's law postulates that the rock matrix is non-conductive.
 For sandstone with clay minerals, this assumption is no longer true in general, due to the clay's structure and cation exchange capacity.
 The Waxman–Smits equation is one model that tries to correct for this.

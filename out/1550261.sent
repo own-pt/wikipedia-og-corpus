@@ -13,21 +13,21 @@ Investigation by the U.S. National Academy of Sciences found major errors in sal
 Hydrometers in the U.S. had been manufactured and distributed widely with a modulus of 141.5 instead of the Baumé scale modulus of 140.
 The scale was so firmly established that, by 1921, the remedy implemented by the American Petroleum Institute was to create the API gravity scale, recognizing the scale that was actually being used.
 
-Section::::API gravity formulas.
+Section:: API gravity formulas.
 The formula to calculate API gravity from Specific Gravity (SG) is:
 
 Conversely, the specific gravity of petroleum liquids can be derived from their API gravity value as
 
 Thus, a heavy oil with a specific gravity of 1.0 (i.e., with the same density as pure water at 60 °F) has an API gravity of:
 
-Section::::Using API gravity to calculate barrels of crude oil per metric ton.
+Section:: Using API gravity to calculate barrels of crude oil per metric ton.
 In the oil industry, quantities of crude oil are often measured in metric tons.
 One can calculate the approximate number of barrels per metric ton for a given crude oil based on its API gravity:
 
 For example, a metric ton of West Texas Intermediate (39.6°
 API) has a volume of about 7.6 barrels.
 
-Section::::Measurement of API gravity from its specific gravity.
+Section:: Measurement of API gravity from its specific gravity.
 To derive the API gravity, the specific gravity (i.e., density relative to water) is first measured using either the hydrometer, detailed in ASTM D1298 or with the oscillating U-tube method detailed in ASTM D4052.
 
 Density adjustments at different temperatures, corrections for soda-lime glass expansion and contraction and meniscus corrections for opaque oils are detailed in the Petroleum Measurement Tables, details of usage specified in ASTM D1250.
@@ -39,11 +39,11 @@ The official density of water at 60 °F according to the 2008 edition of ASTM D1
 The 1980 value is 999.012 kg/m^3.
 In some cases the standard conditions may be 15 °C (59 °F) and not 60 °F (15.56 °C), in which case a different value for the water density would be appropriate ("see" standard conditions for temperature and pressure).
 
-Section::::Direct Measurement of API gravity (Hydrometer method).
+Section:: Direct Measurement of API gravity (Hydrometer method).
 There are advantages to field testing and on-board conversion of measured volumes to volume correction.
 This method is detailed in ASTM D287.
 
-Section::::Classifications or grades.
+Section:: Classifications or grades.
 Generally speaking, oil with an API gravity between 40 and 45° commands the highest prices.
 Above 45°, the molecular chains become shorter and less valuable to refineries.
 

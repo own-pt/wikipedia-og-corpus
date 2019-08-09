@@ -4,13 +4,13 @@ Shale gouge ratio (typically abbreviated to SGR) is a mathematical algorithm tha
 
 The parameter is widely used in the oil and gas exploration and production industries to enable quantitative predictions to be made regarding the hydrodynamic behavior of faults.
 
-Section::::Definition.
+Section:: Definition.
 At any point on a fault surface, the shale gouge ratio is equal to the net shale/clay content of the rocks that have slipped past that point.
 
 The SGR algorithm assumes complete mixing of the wall-rock components in any particular 'throw interval'.
 The parameter is a measure of the 'upscaled' composition of the fault zone.
 
-Section::::Application to hydrocarbon exploration.
+Section:: Application to hydrocarbon exploration.
 Hydrocarbon exploration involves identifying and defining accumulations of hydrocarbons that are trapped in subsurface structures.
 These structures are often segmented by faults.
 For a thorough trap evaluation, it is necessary to predict whether the fault is sealing or leaking to hydrocarbons and also to provide an estimate of how 'strong' the fault seal might be.
@@ -24,7 +24,7 @@ In general, fault zones with higher clay content, equivalent to higher SGR value
 On a broader scale, other factors also exert a control on the threshold pressure, such as depth of the rock sequence at the time of faulting, and the maximum burial depth.
 As maximum burial depth exceeds 3 km, the effective strength of the fault seal will increase for all fault zone compositions.
 
-Section::::References.
+Section:: References.
 Yielding, Needham & Freeman, 1997.
 American Association of Petroleum Geologists Bulletin, vol.81, p.897-917.
 

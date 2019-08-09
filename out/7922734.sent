@@ -10,7 +10,7 @@ Similarly, measurements that rely on detecting hydrogen (neutron emitting sensor
 
 By properly combining the two erroneous answers from density and neutron logging, it is possible to arrive at a more accurate porosity than would be possible by interpreting each of the measurements separately.
 
-Section::::True porosity of a gas reservoir.
+Section:: True porosity of a gas reservoir.
 A popular method of obtaining a formation porosity estimate is based on the simultaneous use of neutron and density logs.
 Under normal logging conditions, the porosity estimates obtained from these tools agree, when plotted on an appropriate lithology and fluid scale.
 However, in the case of a reservoir where there is gas instead of water or oil in the pore space, the two porosity logs separate, to form what is referred to as gas crossover.
@@ -28,7 +28,7 @@ Under these conditions, a lower number of electrons is equivalent to a lower for
 Therefore, logging a gas-filled formation, results in a porosity estimate that is higher than the true porosity.
 Overlaying the neutron and density curves in a gas-bearing zone results in the classic crossover separation.
 
-Section::::Gas porosity in the presence of borehole fluid invasion into the reservoir.
+Section:: Gas porosity in the presence of borehole fluid invasion into the reservoir.
 The process of estimating the true porosity in the gas region relies on the appropriate use of the two porosity logs.
 The process is further complicated by the effects of borehole fluid invasion.
 Invasion tends to force the gas from the formation and replace it with borehole fluid.

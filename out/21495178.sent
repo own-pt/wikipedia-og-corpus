@@ -3,7 +3,7 @@ Seismic inversion
 Seismic inversion, in geophysics (primarily in oil-and-gas exploration/development), is the process of transforming seismic reflection data into a quantitative rock-property description of a reservoir.
 Seismic inversion may be pre- or post-stack, deterministic, random or geostatistical; it typically includes other reservoir measurements such as well logs and cores .
 
-Section::::Introduction.
+Section:: Introduction.
 Geophysicists routinely perform seismic surveys to gather information about the geology of an oil or gas field.
 These surveys record sound waves which have traveled through the layers of rock and fluid in the earth.
 The amplitude and frequency of these waves can be estimated so that any side-lobe and tuning effects introduced by the wavelet may be removed.
@@ -17,7 +17,7 @@ These can be roughly grouped into two categories:
 The combination of these categories yields four technical approaches to the inversion problem, and the selection of a specific technique depends on the desired objective and the characteristics of the subsurface rocks.
 Although the order presented reflects advances in inversion techniques over the past 20 years, each grouping still has valid uses in particular projects or as part of a larger workflow.
 
-Section::::Wavelet estimation.
+Section:: Wavelet estimation.
 All modern seismic inversion methods require seismic data and a wavelet estimated from the data.
 Typically, a reflection coefficient series from a well within the boundaries of the seismic survey is used to estimate the wavelet phase and frequency.
 Accurate wavelet estimation is critical to the success of any seismic inversion.
@@ -33,7 +33,7 @@ Errors in well tie can result in phase or frequency artifacts in the wavelet est
 Once the wavelet is identified, seismic inversion computes a synthetic log for every seismic trace.
 To ensure quality, the inversion result is convolved with the wavelet to produce synthetic seismic traces which are compared to the original seismic.
 
-Section::::Components of inversion.
+Section:: Components of inversion.
 Inversion includes both seismic field data and well data, where well data serves to add the high frequency below the seismic band and to constrain the inversion.
 Well logs are first conditioned and edited to ensure there is a suitable relationship between impedance logs and the desired properties.
 The logs are then converted to time, filtered to approximate the seismic bandwidth and edited for borehole effects, balanced and classified by quality.
@@ -51,7 +51,7 @@ Without a wavelet, the solution is not unique.
 Deterministic inversions address this problem by constraining the answer in some way, usually to well log data.
 Stochastic inversions address this problem by generating a range of plausible solutions, which can then be narrowed through testing for best fit against various measurements (including production data).
 
-Section::::Post-stack seismic resolution inversion.
+Section:: Post-stack seismic resolution inversion.
 An example of a post-stack seismic resolution inversion technique is the Constrained Sparse-Spike Inversion (CSSI).
 This assumes a limited number of reflection coefficients, with larger amplitude.
 The inversion results in acoustic impedance (AI), which is the product of rock density and p-wave velocity.
@@ -66,7 +66,7 @@ A good (CSSI) algorithm will produce four high-quality acoustic impedance volume
 Each of these components can be inspected for its contribution to the solution and to check the results for quality.
 To further adapt the algorithm mathematics to the behavior of real rocks in the subsurface, some CSSI algorithms use a mixed-norm approach and allow a weighting factor between minimizing the sparsity of the solution and minimizing the misfit of the residual traces.
 
-Section::::Pre-stack seismic resolution inversion.
+Section:: Pre-stack seismic resolution inversion.
 Pre-stack inversion is often used when post-stack inversion fails to sufficiently differentiate geologic features with similar P-impedance signatures.
 Simultaneous inversion solves for S-impedance and density, in addition to P-impedance.
 While many geologic features can express similar P-impedance characteristics, few will share combined P-impedance and S-impedance traits (allowing improved separation and clarity).
@@ -103,7 +103,7 @@ This is done by deriving unique wavelets for each input-partial stack.
 The elastic parameters themselves can be directly constrained during the seismic inversion and rock-physics relationships can be applied, constraining pairs of elastic parameters to each other.
 Final elastic-parameter models optimally reproduce the input seismic, as this is part of the seismic inversion optimization.
 
-Section::::Post stack geostatistical inversion.
+Section:: Post stack geostatistical inversion.
 Geostatistical inversion integrates high resolution well data with low resolution 3-D seismic, and provides a model with high vertical detail near and away from well control.
 This generates reservoir models with geologically-plausible shapes, and provides a clear quantification of uncertainty to assess risk.
 Highly detailed petrophysical models are generated, ready for input to reservoir-flow simulation.
@@ -125,7 +125,7 @@ Even with the best model, some uncertainty remains.
 Uncertainty can be estimated using random seeds to generate a range of realizations.
 This is especially useful when dealing with parameters that are sensitive to change; an analysis of this sort enables greater understanding of development risk.
 
-Section::::Pre-stack log-detail inversion.
+Section:: Pre-stack log-detail inversion.
 Amplitude versus offset (AVO) (AVA) geostatistical inversion incorporates simultaneous AVO (AVA) inversion into the geostatistical inversion algorithm so high resolution, geostatistics, and AVO may be attained in a single method.
 The output model (realizations) are consistent with well log information, AVO seismic data, and honor rock property relationships found in the wells.
 The algorithm also simultaneously produces elastic properties (P-impedance, S-impedance and density) and lithology volumes, instead of sequentially solving for lithology first and then populating the cell with impedance and density values.

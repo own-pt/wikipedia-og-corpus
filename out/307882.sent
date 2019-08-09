@@ -8,7 +8,7 @@ Usually consisting of braided cables, wirelines are used to perform wireline log
 
 Braided line can contain an inner core of insulated wires which provide power to equipment located at the end of the cable, normally referred to as electric line, and provides a pathway for electrical telemetry for communication between the surface and equipment at the end of the cable.
 
-Section::::Slicklines.
+Section:: Slicklines.
 Used to place and recover wellbore equipment, such as plugs, gauges and valves, slicklines are single-strand non-electric cables lowered into oil and gas wells from the surface.
 Slicklines can also be used to adjust valves and sleeves located downhole, as well as repair tubing within the wellbore.
 
@@ -19,7 +19,7 @@ On the other hand, wirelines are electric cables that transmit data about the we
 Consisting of single strands or multi-strands, the wireline is used for both well intervention and formation evaluation operations.
 In other words, wirelines are useful in gathering data about the well in logging activities, as well as in workover jobs that require data transmittal.
 
-Section::::Wireline logs.
+Section:: Wireline logs.
 First developed by Conrad and Marcel Schlumberger in 1927, wireline logs measure formation properties in a well through electrical lines of wire.
 Different from measurement while drilling (MWD) and mud logs, wireline logs are constant downhole measurements sent through the electrical wireline used to help geologists, drillers and engineers make real-time decisions about drilling operations.
 Wireline logs can measure resistivity, conductivity and formation pressure, as well as sonic properties and wellbore dimensions.
@@ -28,16 +28,16 @@ The logging tool, also called a sonde, is located at the bottom of the wireline.
 The measurements are taken by lowering the wireline to the prescribed depth and then raising it out of the well.
 The measurements are taken continuously on the way up, in an effort to sustain tension on the line.
 
-Section::::Workover operations.
+Section:: Workover operations.
 When producing wells require remedial work to sustain, restore or enhance production, this is called workover.
 Many times, workover operations require production shut-in, but not always.
 
-Section::::Slickline firing head system.
+Section:: Slickline firing head system.
 In workover operations, a well-servicing unit is used to winch items in and out of the wellbore.
 The line used to raise and lower equipment can be braided steel wireline or a single steel slickline.
 Workover operations conducted can include well clean-up, setting plugs, production logging and perforation through explosives.
 
-Section::::Wireline tools.
+Section:: Wireline tools.
 Wireline tools are specially designed instruments lowered into a well bore on the end of the wireline cable.
 They are individually designed to provide any number of particular services, such as evaluation of the rock properties, the location of casing collars, formation pressures, information regarding the pore size or fluid identification and sample recovery.
 Modern wireline tools can be extremely complicated, and are often engineered to withstand very harsh conditions such as those found in many modern oil, gas, and geothermal wells.
@@ -46,7 +46,7 @@ Corrosive or carcinogenic gases such as hydrogen sulfide can also occur downhole
 
 To reduce the amount of time running in the well, several wireline tools are often joined together and run simultaneously in a tool string that can be hundreds of feet long and weigh more than 5000 lbs.
 
-Section::::Natural gamma ray tools.
+Section:: Natural gamma ray tools.
 Natural gamma ray tools are designed to measure gamma radiation in the Earth caused by the disintegration of naturally occurring potassium, uranium, and thorium.
 Unlike nuclear tools, these natural gamma ray tools emit no radiation.
 The tools have a radiation sensor, which is usually a scintillation crystal that emits a light pulse proportional to the strength of the gamma ray striking it.
@@ -55,7 +55,7 @@ From the photomultiplier tube, the current pulse goes to the tool's electronics 
 The strength of the received gamma rays is dependent on the source emitting gamma rays, the density of the formation, and the distance between the source and the tool detector.
 The log recorded by this tool is used to identify lithology, estimate shale content, and depth correlation of future logs.
 
-Section::::Nuclear tools.
+Section:: Nuclear tools.
 Nuclear tools measure formation properties through the interaction of reservoir molecules with radiation emitted from the logging tool.
 The two most common properties measured by nuclear tools are formation porosity and rock density:
 
@@ -74,7 +74,7 @@ Density tools usually incorporate an extendable caliper arm, which is used both 
 Some modern nuclear tools use an electronically powered source controlled from the surface to generate neutrons.
 By emitting neutrons of varying energies, the logging engineer is able to determine formation lithology in fractional percentages.
 
-Section::::Resistivity tools.
+Section:: Resistivity tools.
 In any matrix which has some porosity, the pore spaces will be filled with a fluid of oil, gas (either hydrocarbon or otherwise) or formation water (sometimes referred to as connate water).
 This fluid will saturate the rock and change its electrical properties.
 A wireline resistivity tool direct injects current (lateralog-type tools for conductive water based muds) or induces (induction-type tools for resistive or oil based muds) an electric current into the surrounding rock and determines the resistivity via Ohm's law.
@@ -86,7 +86,7 @@ Some resistivity tools have many electrodes mounted on several articulated pads,
 These micro-resistivities have a very shallow depth of investigation, typically in the range of 0.1 to 0.8 inches, making them suitable for borehole imaging.
 Resistivity imagers are available which operate using induction methods for resistive mud systems (oil base), and direct current methods for conductive mud systems (water based).
 
-Section::::Sonic and ultrasonic tools.
+Section:: Sonic and ultrasonic tools.
 Sonic tools, such as the Baker Hughes XMAC-F1, consist of multiple piezoelectric transducers and receivers mounted on the tool body at fixed distances.
 The transmitters generate a pattern of sound waves at varying operating frequencies into the down hole formation.
 The signal path leaves the transmitter, passes through the mud column, travels along the borehole wall and is collected at multiple receivers spaced out along the tool body.
@@ -99,7 +99,7 @@ Sonic tools are also used extensively to evaluate the cement bond between casing
 Ultrasonic tools use a rotating acoustic transducer to map a 360 degree image of the borehole as the logging tool is pulled to surface.
 This is especially useful for determining small scale bedding and formation dip, as well as identifying drilling artifacts such as spiraling or induced fractures.
 
-Section::::Nuclear magnetic resonance tools.
+Section:: Nuclear magnetic resonance tools.
 A measurement of the nuclear magnetic resonance (NMR) properties of hydrogen in the formation.
 There are two phases to the measurement: polarization and acquisition.
 First, the hydrogen atoms are aligned in the direction of a static magnetic field (B0).
@@ -118,8 +118,8 @@ In a log, there is a trade-off between the time needed for polarization and acqu
 The longer the polarization and acquisition, the more complete the measurement.
 However, the longer times require either lower logging speed or less frequent sampling.
 
-Section::::Cased hole electric line tools.
-Section::::Cement bond tools.
+Section:: Cased hole electric line tools.
+Section:: Cement bond tools.
 A cement bond tool, or CBT, is an acoustic tool used to measure the quality of the cement behind the casing.
 Using a CBT, the bond between the casing and cement as well as the bond between cement and formation can be determined.
 Using CBT data, a company can troubleshoot problems with the cement sheath if necessary.
@@ -138,7 +138,7 @@ The information from these receivers are logged as traveltimes for the three and
 
 Recent advances in logging technologies have allowed the receivers to measure 360 degrees of cement integrity and can be represented on a log as a radial cement map and as 6-8 individual sector arrival times.
 
-Section::::Casing collar locators.
+Section:: Casing collar locators.
 Casing collar locator tools, or CCL's, are among the simplest and most essential in cased hole electric line.
 CCL's are typically used for depth correlation and can be an indicator of line overspeed when logging in heavy fluids.
 
@@ -147,7 +147,7 @@ Two magnets are separated by a coil of copper wire.
 As the CCL passes by a casing joint, or collar, the difference in metal thickness across the two magnets induces a current spike in the coil.
 This current spike is sent uphole and logged as what's called a collar kick on the cased hole log.
 
-Section::::Gamma perforating tools.
+Section:: Gamma perforating tools.
 A cased hole gamma perforator is used to perform mechanical services, such as shooting perforations, setting downhole tubing/casing elements, dumping remedial cement, tracer surveys, etc.
 Typically, a gamma perforator will have some sort of explosively initiated device attached to it, such as a perforating gun, a setting tool, or a dump bailor.
 In certain instances, the gamma perforator is used to merely spot objects in the well, as in tubing conveyed perforating operations and tracer surveys.
@@ -158,7 +158,7 @@ The tool processes the gamma ray counts and sends the data uphole where it proce
 The information is then used to ensure that the depth shown on the log is correct.
 After that, power can be applied through the tool to set off explosive charges for things like perforating, setting plugs or packers, dumping cement, etc.
 
-Section::::Wireline pressure setting assemblies (WLSPA).
+Section:: Wireline pressure setting assemblies (WLSPA).
 Setting tools are used to set downhole completion elements such as production packers or bridge plugs.
 Setting tools typically use the expanding gas energy from a slow burning explosive charge to drive a hydraulic piston assembly.
 The assembly is attached to the plug or packer by means of a setting mandrel and a sliding sleeve, which when "stroked" by the piston assembly, effectively squeezes the elastomer elements of the packing element, deforming it sufficiently to wedge it into place in the tubing or casing string.
@@ -171,8 +171,8 @@ A hardened set of contoured pads expand when the piston is "stroked", indenting 
 The original design and concept of the tool was to stop surface casing pressure without impacting production by leaving hardware in the well bore.
 They can also be used in other applications like plugging and abandoning or drilling intervention operations like setting whipstocks.
 
-Section::::Additional equipment.
-Section::::Cable head.
+Section:: Additional equipment.
+Section:: Cable head.
 The cable head is the upper most portion of the toolstring on any given type of wireline.
 The cable head is where the conductor wire is made into an electrical connection that can be connected to the rest of the toolstring.
 Cable heads are typically custom built by the wireline operator for every job and depend greatly on depth, pressure and the type of wellbore fluid.
@@ -181,12 +181,12 @@ Electric line weakpoints are also located in the cable head.
 If the tool is to become stuck in the well, the weak point is where the tool would first separate from the wireline.
 If the wireline were severed anywhere else along the line, the tool becomes much more difficult to fish.
 
-Section::::Tractors.
+Section:: Tractors.
 Tractors are electrical tools used to push the toolstring into hole, overcoming wireline's disadvantage of being gravity dependent.
 These are used for in highly deviated and horizontal wells where gravity is insufficient, even with roller stem.
 They push against the side of the wellbore either through the use of wheels or through a wormlike motion.
 
-Section::::Measuring head.
+Section:: Measuring head.
 A measuring head is the first piece of equipment the wireline comes into contact with off the drum.
 The measuring head is composed of several wheels which support the wireline on its way to the winch and they also measure crucial wireline data.
 
@@ -194,12 +194,12 @@ A measuring head records tension, depth, and speed.
 Current models use optical encoders to derive the revolutions of a wheel with a known circumference, which in turn is used to figure speed and depth.
 A wheel with a pressure sensor is used to figure tension.
 
-Section::::Wireline apparatus.
+Section:: Wireline apparatus.
 For oilfield work, the wireline resides on the surface, wound around a large (3 to 10 feet in diameter) spool.
 Operators may use a portable spool (on the back of a special truck) or a permanent part of the drilling rig.
 A motor and drive train turn the spool and raise and lower the equipment into and out of the well – the winch.
 
-Section::::Pressure control during wireline operations.
+Section:: Pressure control during wireline operations.
 The pressure control employed during wireline operations is intended to contain pressure originating from the well bore.
 During open hole electric line operations, the pressure might be the result from a well kicking.
 During cased hole electric line, this is most likely the result of a well producing at high pressures.
@@ -207,57 +207,57 @@ Pressure equipment must be rated to well over the expected well pressures.
 Normal ratings for wireline pressure equipment is 5,000, 10,000, and 15,000 pounds per square inch.
 Some wells are contained with 20,000 psi and 30,000 psi equipment is in development also.
 
-Section::::Flange.
+Section:: Flange.
 A flange attaches to the top of the Christmas tree, usually with some sort of adapter for the rest of the pressure control.
 A metal gasket is placed between the top of the Christmas tree and the flange to keep in well pressures.
 
-Section::::Wireline valve.
+Section:: Wireline valve.
 A wireline control valve, also called a wireline blow out preventer(BOP), is an enclosed device with one or more rams capable of closing over the wireline in an emergency.
 A dual wireline valve has two sets of rams and some have the capability of pumping grease in the space between the rams to counterbalance the well pressure.
 
-Section::::Lubricator.
+Section:: Lubricator.
 Lubricator is the term used for sections of pressure tested pipe that act to seal in wireline tools during pressurization.
 As stated it is a series of pipes that connect and it is what holds the tool string so operators can make runs in and out of the well.
 It has valves to bleed off pressure so that you can disconnect it from the well and work on tools, etc.
 
-Section::::Pump-in sub.
+Section:: Pump-in sub.
 Pump-in subs (also known as a flow T) allow for the injection of fluid into the pressure control string.
 Normally these are used for wellsite pressure testing, which is typically performed between every run into the well.
 They can also be used to bleed off pressure from the string after a run in the well, or to pump in kill fluids to control a wild well.
-Section::::Grease injector head.
+Section:: Grease injector head.
 The grease injector head is the main apparatus for controlling well pressure while running into the hole.
 The grease head uses a series of very small pipes, called flow tubes, to decrease the pressure head of the well.
 Grease is injected at high pressure into the bottom portion of the grease head to counteract the remaining well pressure.
 
-Section::::Pack-off.
+Section:: Pack-off.
 Pack-off subs utilize hydraulic pressure on a two brass fittings which compress a rubber sealing element to create a seal around the wireline.
 Pack-offs can be hand pumped or compressed through a motorized pumping unit.
-Section::::Line wiper.
+Section:: Line wiper.
 A line wiper operates in much the same way as a pack-off sub, except that the rubber element is much softer.
 Hydraulic pumps exert force on the rubber element until a light pressure is exerted on the wireline, cleaning grease and well fluid off the line in the process.
 
-Section::::Quick test sub.
+Section:: Quick test sub.
 A quick test sub (QTS) is used when pressure testing the pressure control equipment (PCE) for repetitive operations.
 The PCE is pressure tested and then broke at the QTS afterwards to avoid having to retest the entire string.
 The PCE is then reconnected at the QTS.
 The QTS has two O-rings where it was disconnected that can be tested with hydraulic pressure to confirm the PCE can still hold the pressure it was tested to.
 
-Section::::Ball-check valve.
+Section:: Ball-check valve.
 If the wireline were to become severed from the tool, a ball check valve can seal the well off from the surface.
 During wireline operations, a steel ball sits to the side of a confined area within the grease head while the cable runs in and out of the hole.
 If the wireline exits that confined area under pressure, the pressure will force the steel ball up towards the hole where the wireline had been.
 The ball's diameter is larger than that of the hole, so the ball effectively seals off pressure to the surface.
 
-Section::::Head catcher.
+Section:: Head catcher.
 A head catcher is a device placed at the top of the lubricator section.
 Should the wireline tools be forced into the top of the lubricator section, the head catcher, which looks like a small 'claw,' will clamp down on the fishing neck of the tool.
 This action prevents the tools from falling downhole should the line pull out of the rope socket.
 Pressure is bled off of the head catcher to release the tools.
 
-Section::::Tool trap.
+Section:: Tool trap.
 A tool trap has the same purpose as a head catcher in that it prevents the tools from inadvertently dropping down the hole.
 
-Section::::Quick-Connect Sub.
+Section:: Quick-Connect Sub.
 A subassembly device that is bolted to the top of the BOP stack that is designed to eliminate traditional bolt-flanges to connect lubricator heads and utilize tapered-wedge and lock ring designs.
 This allows the same security of traditional pressure control connections but a significant time savings component.
 

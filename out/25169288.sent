@@ -7,7 +7,7 @@ The array of cells is usually three-dimensional, although 1D and 2D models are s
 Values for attributes such as porosity, permeability and water saturation are associated with each cell.
 The value of each attribute is implicitly deemed to apply uniformly throughout the volume of the reservoir represented by the cell.
 
-Section::::Types of reservoir model.
+Section:: Types of reservoir model.
 Reservoir models typically fall into two categories:
 
 Sometimes a single "shared earth model" is used for both purposes.
@@ -23,7 +23,7 @@ The phrase "reservoir characterization" is sometimes used to refer to reservoir 
 
 Commercially available software is used in the construction, simulation and analysis of the reservoir models.
 
-Section::::Seismic to simulation.
+Section:: Seismic to simulation.
 The processes required to construct reservoir models are described by the phrase "Seismic to simulation".
 The process is successful if the model accurately reflects the original well logs, seismic data and production history.
 
@@ -33,7 +33,7 @@ Models are based on measurements taken in the field, including well logs, seismi
 Seismic to simulation enables the quantitative integration of all field data into an updateable reservoir model built by a team of geologists, geophysicists, and engineers.
 Key techniques used in the process include integrated petrophysics and rock physics to determine the range of lithotypes and rock properties, geostatistical inversion to determine a set of plausible seismic-derived rock property models at sufficient vertical resolution and heterogeneity for flow simulation, stratigraphic grid transfer to accurately move seismic-derived data to the geologic model, and flow simulation for model validation and ranking to determine the model that best fits all the data.
 
-Section::::Rock physics and petrophysics.
+Section:: Rock physics and petrophysics.
 The first step in seismic to simulation is establishing a relationship between petrophysical key rock properties and elastic properties of the rock.
 This is required in order to find common ground between the well logs and seismic data.
 
@@ -57,7 +57,7 @@ Calculations are performed following a number of rock physics algorithms includi
 When the petrophysical rock model is complete, a statistical database is created to describe the rock types and their known properties such as porosity and permeability.
 Lithotypes are described, along with their distinct elastic properties.
 
-Section::::MCMC geostatistical inversion.
+Section:: MCMC geostatistical inversion.
 In the next step of seismic to simulation, seismic inversion techniques combine well and seismic data to produce multiple equally plausible 3D models of the elastic properties of the reservoir.
 Seismic data is transformed to elastic property log(s) at every trace.
 Deterministic inversion techniques are used to provide a good overall view of the porosity over the field, and serve as a quality control check.
@@ -90,7 +90,7 @@ Inversion properties are consistent with well log properties because the histogr
 Uncertainty is quantified by using random seeds to generate slightly differing realizations, particularly for areas of interest.
 This process improves the understanding of uncertainty and risk within the model.
 
-Section::::Stratigraphic grid transfer.
+Section:: Stratigraphic grid transfer.
 Following geostatistical inversion and in preparation for history matching and flow simulation, the static model is re-gridded and up-scaled.
 The transfer simultaneously converts time to depth for the various properties and transfers them in 3D from the seismic grid to a corner-point grid.
 The relative locations of properties are preserved, ensuring data points in the seismic grid arrive in the correct stratigraphic layer in the corner point grid.
@@ -108,7 +108,7 @@ Using the porosity and permeability models and a saturation height function, ini
 If volumetric calculations identify problems in the model, changes are made in the petrophysical model without causing the model to stray from the original input data.
 For example, sealing faults are added for greater compartmentalization.
 
-Section::::Model validation and ranking.
+Section:: Model validation and ranking.
 In the last step of seismic to simulation, flow simulation continues the integration process by bringing in the production history.
 This provides a further validation of the static model against history.
 A representative set of the model realizations from the geostatistical inversion are history matched against production data.

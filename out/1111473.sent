@@ -5,7 +5,7 @@ The log may be based either on visual inspection of samples brought to the surfa
 Some types of geophysical well logs can be done during any phase of a well's history: drilling, completing, producing, or abandoning.
 Well logging is performed in boreholes drilled for the oil and gas, groundwater, mineral and geothermal exploration, as well as part of environmental and geotechnical studies.
 
-Section::::Wireline logging.
+Section:: Wireline logging.
 The oil and gas industry uses wireline logging to obtain a continuous record of a formation's rock properties.
 Wireline logging can be defined as being "The acquisition and analysis of geophysical data performed as a function of well bore depth, together with the provision of related services".
 Note that "wireline logging" and "mud logging" are not the same, yet are closely linked through the integration of the data sets.
@@ -32,7 +32,7 @@ There are many types of wireline logs and they can be categorized either by thei
 
 Wireline logs can be divided into broad categories based on the physical properties measured.
 
-Section::::History.
+Section:: History.
 Conrad and Marcel Schlumberger, who founded Schlumberger Limited in 1926, are considered the inventors of electric well logging.
 Conrad developed the Schlumberger array, which was a technique for prospecting for metal ore deposits, and the brothers adapted that surface technique to subsurface applications.
 On September 5, 1927, a crew working for Schlumberger lowered an electric sonde or tool down a well in Pechelbronn, Alsace, France creating the first well log.
@@ -78,15 +78,15 @@ Modern techniques now permit continuous information at the surface.
 This is known as logging while drilling (LWD) or measurement-while-drilling (MWD).
 MWD logs use mud pulse technology to transmit data from the tools on the bottom of the drillstring to the processors at the surface.
 
-Section::::Electrical logs.
-Section::::Resistivity log.
+Section:: Electrical logs.
+Section:: Resistivity log.
 Resistivity logging measures the subsurface electrical resistivity, which is the ability to impede the flow of electric current.
 This helps to differentiate between formations filled with salty waters (good conductors of electricity) and those filled with hydrocarbons (poor conductors of electricity).
 Resistivity and porosity measurements are used to calculate water saturation.
 Resistivity is expressed in ohms or ohms/meter, and is frequently charted on a logarithm scale versus depth because of the large range of resistivity.
 The distance from the borehole penetrated by the current varies with the tool, from a few centimeters to one meter.
 
-Section::::Borehole Imaging.
+Section:: Borehole Imaging.
 The term "borehole imaging" refers to those logging and data-processing methods that are used to produce centimeter-scale images of the borehole wall and the rocks that make it up.
 The context is, therefore, that of open hole, but some of the tools are closely related to their cased-hole equivalents.
 Borehole imaging has been one of the most rapidly advancing technologies in wireline well logging.
@@ -94,18 +94,18 @@ The applications range from detailed reservoir description through reservoir per
 Specific applications are fracture identification , analysis of small-scale sedimentological features, evaluation of net pay in thinly bedded formations, and the identification of breakouts (irregularities in the borehole wall that are aligned with the minimum horizontal stress and appear where stresses around the wellbore exceed the compressive strength of the rock).
 The subject area can be classified into four parts:
 
-Section::::Porosity logs.
+Section:: Porosity logs.
 Porosity logs measure the fraction or percentage of pore volume in a volume of rock.
 Most porosity logs use either acoustic or nuclear technology.
 Acoustic logs measure characteristics of sound waves propagated through the well-bore environment.
 Nuclear logs utilize nuclear reactions that take place in the downhole logging instrument or in the formation.
 Nuclear logs include density logs and neutron logs, as well as gamma ray logs which are used for correlation.
 
-Section::::Density.
+Section:: Density.
 The density log measures the bulk density of a formation by bombarding it with a radioactive source and measuring the resulting gamma ray count after the effects of Compton Scattering and Photoelectric absorption.
 This bulk density can then be used to determine porosity.
 
-Section::::Neutron porosity.
+Section:: Neutron porosity.
 The neutron porosity log works by bombarding a formation with high energy epithermal neutrons that lose energy through elastic scattering to near thermal levels before being absorbed by the nuclei of the formation atoms.
 Depending on the particular type of neutron logging tool, either the gamma ray of capture, scattered thermal neutrons or scattered, higher energy epithermal neutrons are detected.
 The neutron porosity log is predominantly sensitive to the quantity of hydrogen atoms in a particular formation, which generally corresponds to rock porosity.
@@ -113,12 +113,12 @@ The neutron porosity log is predominantly sensitive to the quantity of hydrogen 
 Boron is known to cause anomalously low neutron tool count rates due to it having a high capture cross section for thermal neutron absorption.
 An increase in hydrogen concentration in clay minerals has a similar effect on the count rate.
 
-Section::::Sonic.
+Section:: Sonic.
 A sonic log provides a formation interval transit time, which typically a function of lithology and rock texture but particularly porosity.
 The logging tool consists of a piezoelectric transmitter and receiver and the time taken to for the sound wave to travel the fixed distance between the two is recorded as an "interval transit time".
 
-Section::::Lithology logs.
-Section::::Gamma ray.
+Section:: Lithology logs.
+Section:: Gamma ray.
 A log of the natural radioactivity of the formation along the borehole, measured in API units, particularly useful for distinguishing between sands and shales in a siliclastic environment.
 This is because sandstones are usually nonradioactive quartz, whereas shales are naturally radioactive due to potassium isotopes in clays, and adsorbed uranium and thorium.
 
@@ -126,7 +126,7 @@ In some rocks, and in particular in carbonate rocks, the contribution from urani
 In this case, the carbonate gamma ray is a better indicator of shaliness.
 The carbonate gamma ray log is a gamma ray log from which the uranium contribution has been subtracted.
 
-Section::::Self/spontaneous potential.
+Section:: Self/spontaneous potential.
 The Spontaneous Potential (SP) log measures the natural or spontaneous potential difference between the borehole and the surface, without any applied current.
 It was one of the first wireline logs to be developed, found when a single potential electrode was lowered into a well and a potential was measured relative to a fixed reference electrode at the surface.
 
@@ -135,12 +135,12 @@ The magnitude of this deflection depends mainly on the salinity contrast between
 Therefore, the SP log is commonly used to detect permeable beds and to estimate clay content and formation water salinity.
 The SP log can be used to distinguish between impermeable shale and permeable shale and porous sands.
 
-Section::::Miscellaneous.
-Section::::Caliper.
+Section:: Miscellaneous.
+Section:: Caliper.
 A tool that measures the diameter of the borehole, using either 2 or 4 arms.
 It can be used to detect regions where the borehole walls are compromised and the well logs may be less reliable.
 
-Section::::Nuclear magnetic resonance.
+Section:: Nuclear magnetic resonance.
 Nuclear magnetic resonance (NMR) logging uses the NMR response of a formation to directly determine its porosity and permeability, providing a continuous record along the length of the borehole.
 The chief application of the NMR tool is to determine moveable fluid volume (BVM) of a rock.
 This is the pore space excluding clay bound water (CBW) and irreducible water (BVI).
@@ -149,7 +149,7 @@ On modern tools, both CBW and BVI can often be seen in the signal response after
 Note that some of the moveable fluids (BVM) in the NMR sense are not actually moveable in the oilfield sense of the word.
 Residual oil and gas, heavy oil, and bitumen may appear moveable to the NMR precession measurement, but these will not necessarily flow into a well bore.
 
-Section::::Spectral noise logging.
+Section:: Spectral noise logging.
 Spectral noise logging (SNL) is an acoustic noise measuring technique used in oil and gas wells for well integrity analysis, identification of production and injection intervals and hydrodynamic characterisation of the reservoir.
 SNL records acoustic noise generated by fluid or gas flow through the reservoir or leaks in downhole well components.
 
@@ -158,7 +158,7 @@ As far back as 1955, an acoustic detector was proposed for use in well integrity
 Over many years, downhole noise logging tools proved effective in inflow and injectivity profiling of operating wells, leak detection, location of cross-flows behind casing, and even in determining reservoir fluid compositions.
 Robinson (1974) described how noise logging can be used to determine effective reservoir thickness.
 
-Section::::Logging while drilling.
+Section:: Logging while drilling.
 In the 1970s, a new approach to wireline logging was introduced in the form of logging while drilling (LWD).
 This technique provides similar well information to conventional wireline logging but instead of sensors being lowered into the well at the end of wireline cable, the sensors are integrated into the drill string and the measurements are made in real-time, whilst the well is being drilled.
 This allows drilling engineers and geologists to quickly obtain information such as porosity, resistivity, hole direction and weight-on-bit and they can use this information to make immediate decisions about the future of the well and the direction of drilling.
@@ -167,20 +167,20 @@ This mud telemetry method provides a bandwidth of less than 10 bits per second, 
 A higher sample rate of data is recorded into memory and retrieved when the drillstring is withdrawn at bit changes.
 High-definition downhole and subsurface information is available through networked or wired drillpipe that deliver memory quality data in real time.
 
-Section::::Corrosion well logging.
+Section:: Corrosion well logging.
 Throughout the life of the wells, integrity controles of the steel and cemented column (casing and tubing) are performed using calipers and thickness gauges.
 These advanced technical methods use non destructive technologies as ultrasonic, electromagnetic and magnetic transducers.
 
-Section::::Memory log.
+Section:: Memory log.
 This method of data acquisition involves recording the sensor data into a down hole memory, rather than transmitting "Real Time" to surface.
 There are some advantages and disadvantages to this memory option.
 
-Section::::Coring.
+Section:: Coring.
 Coring is the process of obtaining an actual sample of a rock formation from the borehole.
 There are two main types of coring: 'full coring', in which a sample of rock is obtained using a specialised drill-bit as the borehole is first penetrating the formation and 'sidewall coring', in which multiple samples are obtained from the side of the borehole after it has penetrated through a formation.
 The main advantage of sidewall coring over full coring are that it is cheaper (drilling doesn't have to be stopped) and multiple samples can be easily acquired, with the main disadvantages being that there can be uncertainty in the depth at which the sample was acquired and the tool can fail to acquire the sample.
 
-Section::::Mudlogging.
+Section:: Mudlogging.
 "Mud logs" are well logs prepared by describing rock or soil cuttings brought to the surface by mud circulating in the borehole.
 In the oil industry they are usually prepared by a mud logging company contracted by the operating company.
 One parameter a typical mud log displays is the formation gas (gas units or ppm).
@@ -189,7 +189,7 @@ In practice, significance is placed only on relative changes in the gas concentr
 The current oil industry standard mud log normally includes real-time drilling parameters such as rate of penetration (ROP), lithology, gas hydrocarbons, flow line temperature (temperature of the drilling fluid) and chlorides but may also include mud weight, estimated pore pressure and corrected d-exponent (corrected drilling exponent) for a pressure pack log.
 Other information that is normally notated on a mud log include directional data (deviation surveys), weight on bit, rotary speed, pump pressure, pump rate, viscosity, drill bit info, casing shoe depths, formation tops, mud pump info, to name just a few.
 
-Section::::Information use.
+Section:: Information use.
 In the oil industry, the well and mud logs are usually transferred in 'real time' to the operating company, which uses these logs to make operational decisions about the well, to correlate formation depths with surrounding wells, and to make interpretations about the quantity and quality of hydrocarbons present.
 Specialists involved in well log interpretation are called log analysts.
 

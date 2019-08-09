@@ -5,7 +5,7 @@ Production decline curve analysis is a traditional means of identifying well pro
 Before the availability of computers, decline curve analysis was performed by hand on semi-log plot paper.
 Currently, decline curve analysis software on PC computers is used to plot production decline curves for petroleum economics analysis.
 
-Section::::Background.
+Section:: Background.
 Oil and gas wells usually reach their maximum output shortly after completion.
 From that time, other than wells completed in water-drive reservoirs, they decline in production, the rapidity of decline depending on the output of the wells and on other factors governing their productivity.
 The production decline curve shows the amount of oil and gas produced per unit of time for several consecutive periods; if the conditions affecting the rate of production are not changed, the curve may be fairly regular, and, if projected, will furnish useful knowledge as to the future production of the well.

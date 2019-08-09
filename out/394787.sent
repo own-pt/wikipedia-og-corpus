@@ -4,16 +4,16 @@ A drill string on a drilling rig is a column, or string, of drill pipe that tran
 The term is loosely applied to the assembled collection of the drill pipe, drill collars, tools and drill bit.
 The drill string is hollow so that drilling fluid can be pumped down through it and circulated back up the annulus (the void between the drill string and the casing/open hole).
 
-Section::::Drill string components.
+Section:: Drill string components.
 The drill string is typically made up of three sections:
 
-Section::::Bottom hole assembly (BHA).
+Section:: Bottom hole assembly (BHA).
 The Bottom Hole Assembly (BHA) is made up of: a drill bit, which is used to break up the rock formations; drill collars, which are heavy, thick-walled tubes used to apply weight to the drill bit; and drilling stabilizers, which keep the assembly centered in the hole.
 The BHA may also contain other components such as a downhole motor and rotary steerable system(RSS), measurement while drilling (MWD), and logging while drilling (LWD) tools.
 The components are joined together using rugged threaded connections.
 Short "subs" are used to connect items with dissimilar threads.
 
-Section::::Transition pipe.
+Section:: Transition pipe.
 Heavyweight drill pipe (HWDP) may be used to make the transition between the drill collars and drill pipe.
 The function of the HWDP is to provide a flexible transition between the drill collars and the drill pipe.
 This helps to reduce the number of fatigue failures seen directly above the BHA.
@@ -21,14 +21,14 @@ A secondary use of HWDP is to add additional weight to the drill bit.
 HWDP is most often used as weight on bit in deviated wells.
 The HWDP may be directly above the collars in the angled section of the well, or the HWDP may be found before the kick off point in a shallower section of the well.
 
-Section::::Drill pipe.
+Section:: Drill pipe.
 Drill pipe makes up the majority of the drill string back up to the surface.
 Each drill pipe comprises a long tubular section with a specified outside diameter (e.g. 3 1/2 inch, 4 inch, 5 inch, 5 1/2 inch, 5 7/8 inch, 6 5/8 inch).
 At each end of the drill pipe tubular, larger-diameter portions called the tool joints are located.
 One end of the drill pipe has a male ("pin") connection whilst the other has a female ("box") connection.
 The tool joint connections are threaded which allows for the mating of each drill pipe segment to the next segment.
 
-Section::::Running a drill string.
+Section:: Running a drill string.
 Most components in a drill string are manufactured in 31 foot lengths (range 2) although they can also be manufactured in 46 foot lengths (range 3).
 Each 31 foot component is referred to as a joint.
 Typically 2, 3 or 4 joints are joined together to make a stand.
@@ -38,7 +38,7 @@ Pulling the drill string out of or running the drill string into the hole is ref
 Drill pipe, HWDP and collars are typically racked back in stands in to the monkeyboard which is a component of the derrick if they are to be run back into the hole again after, say, changing the bit.
 The disconnect point ("break") is varied each subsequent round trip so that after three trips every connection has been broken apart and later made up again with fresh pipe dope applied.
 
-Section::::Stuck drill string.
+Section:: Stuck drill string.
 A stuck drill string can be caused by many situations.
 
 Once the tubular member is stuck, there are many techniques used to extract the pipe.
@@ -46,7 +46,7 @@ The tools and expertise are normally supplied by an oilfield service company.
 Two popular tools and techniques are the oilfield jar and the surface resonant vibrator.
 Below is a history of these tools along with how they operate.
 
-Section::::History of Jars.
+Section:: History of Jars.
 The mechanical success of cable tool drilling has greatly depended on a device called jars, invented by a spring pole driller, William Morris, in the salt well days of the 1830s.
 Little is known about Morris except for his invention and that he listed Kanawha County (now in West Virginia) as his address.
 Morris received for this unique tool in 1841 for artesian well drilling.
@@ -78,11 +78,11 @@ When pipe stretch alone cannot provide enough energy to free a fish, compounders
 Compounders or accelerators are energized when you over pull on the working string and compress a compressible fluid through a few feet of stroke distance and at the same time activate the fishing jar.
 When the fishing jar releases the stored energy in the compounder/acclerator lifts the drill collars upwards at a high rate of speed creating a high impact in the jar.
 
-Section::::System Dynamics of Jars.
+Section:: System Dynamics of Jars.
 Jars rely on the principle of stretching a pipe to build elastic potential energy such that when the jar trips it relies on the masses of the drill pipe and collars to gain velocity and subsequently strike the anvil section of jar.
 This impact results in a force, or blow, which is converted into energy.
 
-Section::::History of Surface Resonant Vibrators.
+Section:: History of Surface Resonant Vibrators.
 The concept of using vibration to free stuck objects from a wellbore originated in the 1940s, and probably stemmed from the 1930s use of vibration to drive piling in the Soviet Union.
 The early use of vibration for driving and extracting piles was confined to low frequency operation; that is, frequencies less than the fundamental resonant frequency of the system and consequently, although effective, the process was only an improvement on conventional hammer equipment.
 Early patents and teaching attempted to explain the process and mechanism involved, but lacked a certain degree of sophistication.
@@ -94,7 +94,7 @@ The first published work on this technique was outlined in a 1987 Society of Pet
 The cited work involving liner, tubing, and drill pipe extraction and was very successful.
 Reference Two presented at the Society of Petroleum Engineers Annual Technical Conference and Exhibition in Anaheim, California, November, 2007 explains the resonant vibration theory in more detail as well as its use in extracting long lengths of mud stuck tubulars.
 
-Section::::System Dynamics of Surface Resonant Vibrators.
+Section:: System Dynamics of Surface Resonant Vibrators.
 Surface Resonant Vibrators rely on the principle of counter rotating eccentric weights to impart a sinusoidal harmonic motion from the surface into the work string at the surface.
 Reference Three (above) provides a full explanation of this technology.
 The frequency of rotation, and hence vibration of the pipe string, is tuned to the resonant frequency of the system.
