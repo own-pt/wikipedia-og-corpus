@@ -24,8 +24,7 @@ Section:: Using API gravity to calculate barrels of crude oil per metric ton.
 In the oil industry, quantities of crude oil are often measured in metric tons.
 One can calculate the approximate number of barrels per metric ton for a given crude oil based on its API gravity:
 
-For example, a metric ton of West Texas Intermediate (39.6°
-API) has a volume of about 7.6 barrels.
+For example, a metric ton of West Texas Intermediate (39.6° API) has a volume of about 7.6 barrels.
 
 Section:: Measurement of API gravity from its specific gravity.
 To derive the API gravity, the specific gravity (i.e., density relative to water) is first measured using either the hydrometer, detailed in ASTM D1298 or with the oscillating U-tube method detailed in ASTM D4052.

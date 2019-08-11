@@ -52,6 +52,7 @@ done
 
 : sed -i .bak 's/\."$/"./' *.sent
 : sed -i .bak 's/ / /' *.sent
+: sed -i .bak 's/ / /' *.sent
 
 remove the =.bak= files. I have also manually (using deadgrep in
 Emacs) search for split errors searching for lines starting with
